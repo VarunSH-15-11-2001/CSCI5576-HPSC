@@ -1,0 +1,21 @@
+Final yval values: 
+yval[0]: 0
+yval[1]: 4
+yval[2]: 16
+yval[3]: 36
+yval[4]: 64
+yval[5]: 100
+yval[6]: 144
+yval[7]: 196
+yval[8]: 256
+yval[9]: 324
+yval[10]: 400
+yval[11]: 484
+yval[12]: 576
+yval[13]: 676
+yval[14]: 784
+yval[15]: 900
+yval[16]: 1024
+yval[17]: 1156
+yval[18]: 1296
+yval[19]: 1444
