@@ -5,9 +5,9 @@
 
 rm -f *.plt
 
-mpirun --oversubscribe -n 4 ./fd -nPEx 2 -nPEy 2 -nCellx 10 -nCelly 10   > tmp
+#mpirun --oversubscribe -n 4 ./fd -nPEx 2 -nPEy 2 -nCellx 10 -nCelly 10   > tmp
 #mpirun -n 4 ./fd -nPEx 2 -nPEy 2 -nCellx  3 -nCelly  3   > tmp
-#mpirun -n 1 ./fd -nPEx 1 -nPEy 1 -nCellx  3 -nCelly  3   > tmp
+mpirun -n 1 ./fd -nPEx 1 -nPEy 1 -nCellx  3 -nCelly  3   > tmp
 #mpirun -n 2 ./fd -nPEx 2 -nPEy 1 -nCellx  1 -nCelly  1   > tmp
 
 grep -v "myPE:"   tmp > tmpall

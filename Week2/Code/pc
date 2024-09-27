@@ -1,0 +1,17 @@
+#
+# This file is written by fd_mpi.  See plotter.h
+# To run this file in gnuplot: 
+#   (1) Start gnuplot
+#   (2) At the gnuplot prompt, enter the command:
+#          load 'pc'
+#
+# The current version of this plot command file will display
+# the plot to the screen.  To write the plot to a png file,
+# uncomment the two 'set' commands in the following lines.
+#
+#set term png
+#set output 'plot.png'
+
+
+splot 'F_phi_0.plt' w l, 
+
