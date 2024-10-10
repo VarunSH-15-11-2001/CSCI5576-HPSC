@@ -1,0 +1,2802 @@
+set xrange [-.1:1.1]
+set yrange [-.1:1.1]
+splot \
+"qval_0_0.plt" w l , "ptcl_0_0.plt" w p lw 1, \
+"qval_1_0.plt" w l , "ptcl_1_0.plt" w p lw 1, \
+"qval_2_0.plt" w l , "ptcl_2_0.plt" w p lw 1, \
+"qval_3_0.plt" w l , "ptcl_3_0.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_0.plt" w l , "ptcl_0_0.plt" w p lw 1, \
+"qval_1_0.plt" w l , "ptcl_1_0.plt" w p lw 1, \
+"qval_2_0.plt" w l , "ptcl_2_0.plt" w p lw 1, \
+"qval_3_0.plt" w l , "ptcl_3_0.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_0.plt" w l , "ptcl_0_0.plt" w p lw 1, \
+"qval_1_0.plt" w l , "ptcl_1_0.plt" w p lw 1, \
+"qval_2_0.plt" w l , "ptcl_2_0.plt" w p lw 1, \
+"qval_3_0.plt" w l , "ptcl_3_0.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_0.plt" w l , "ptcl_0_0.plt" w p lw 1, \
+"qval_1_0.plt" w l , "ptcl_1_0.plt" w p lw 1, \
+"qval_2_0.plt" w l , "ptcl_2_0.plt" w p lw 1, \
+"qval_3_0.plt" w l , "ptcl_3_0.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_1.plt" w l , "ptcl_0_1.plt" w p lw 1, \
+"qval_1_1.plt" w l , "ptcl_1_1.plt" w p lw 1, \
+"qval_2_1.plt" w l , "ptcl_2_1.plt" w p lw 1, \
+"qval_3_1.plt" w l , "ptcl_3_1.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_1.plt" w l , "ptcl_0_1.plt" w p lw 1, \
+"qval_1_1.plt" w l , "ptcl_1_1.plt" w p lw 1, \
+"qval_2_1.plt" w l , "ptcl_2_1.plt" w p lw 1, \
+"qval_3_1.plt" w l , "ptcl_3_1.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_1.plt" w l , "ptcl_0_1.plt" w p lw 1, \
+"qval_1_1.plt" w l , "ptcl_1_1.plt" w p lw 1, \
+"qval_2_1.plt" w l , "ptcl_2_1.plt" w p lw 1, \
+"qval_3_1.plt" w l , "ptcl_3_1.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_1.plt" w l , "ptcl_0_1.plt" w p lw 1, \
+"qval_1_1.plt" w l , "ptcl_1_1.plt" w p lw 1, \
+"qval_2_1.plt" w l , "ptcl_2_1.plt" w p lw 1, \
+"qval_3_1.plt" w l , "ptcl_3_1.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_2.plt" w l , "ptcl_0_2.plt" w p lw 1, \
+"qval_1_2.plt" w l , "ptcl_1_2.plt" w p lw 1, \
+"qval_2_2.plt" w l , "ptcl_2_2.plt" w p lw 1, \
+"qval_3_2.plt" w l , "ptcl_3_2.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_2.plt" w l , "ptcl_0_2.plt" w p lw 1, \
+"qval_1_2.plt" w l , "ptcl_1_2.plt" w p lw 1, \
+"qval_2_2.plt" w l , "ptcl_2_2.plt" w p lw 1, \
+"qval_3_2.plt" w l , "ptcl_3_2.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_2.plt" w l , "ptcl_0_2.plt" w p lw 1, \
+"qval_1_2.plt" w l , "ptcl_1_2.plt" w p lw 1, \
+"qval_2_2.plt" w l , "ptcl_2_2.plt" w p lw 1, \
+"qval_3_2.plt" w l , "ptcl_3_2.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_2.plt" w l , "ptcl_0_2.plt" w p lw 1, \
+"qval_1_2.plt" w l , "ptcl_1_2.plt" w p lw 1, \
+"qval_2_2.plt" w l , "ptcl_2_2.plt" w p lw 1, \
+"qval_3_2.plt" w l , "ptcl_3_2.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_3.plt" w l , "ptcl_0_3.plt" w p lw 1, \
+"qval_1_3.plt" w l , "ptcl_1_3.plt" w p lw 1, \
+"qval_2_3.plt" w l , "ptcl_2_3.plt" w p lw 1, \
+"qval_3_3.plt" w l , "ptcl_3_3.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_3.plt" w l , "ptcl_0_3.plt" w p lw 1, \
+"qval_1_3.plt" w l , "ptcl_1_3.plt" w p lw 1, \
+"qval_2_3.plt" w l , "ptcl_2_3.plt" w p lw 1, \
+"qval_3_3.plt" w l , "ptcl_3_3.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_3.plt" w l , "ptcl_0_3.plt" w p lw 1, \
+"qval_1_3.plt" w l , "ptcl_1_3.plt" w p lw 1, \
+"qval_2_3.plt" w l , "ptcl_2_3.plt" w p lw 1, \
+"qval_3_3.plt" w l , "ptcl_3_3.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_3.plt" w l , "ptcl_0_3.plt" w p lw 1, \
+"qval_1_3.plt" w l , "ptcl_1_3.plt" w p lw 1, \
+"qval_2_3.plt" w l , "ptcl_2_3.plt" w p lw 1, \
+"qval_3_3.plt" w l , "ptcl_3_3.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_4.plt" w l , "ptcl_0_4.plt" w p lw 1, \
+"qval_1_4.plt" w l , "ptcl_1_4.plt" w p lw 1, \
+"qval_2_4.plt" w l , "ptcl_2_4.plt" w p lw 1, \
+"qval_3_4.plt" w l , "ptcl_3_4.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_4.plt" w l , "ptcl_0_4.plt" w p lw 1, \
+"qval_1_4.plt" w l , "ptcl_1_4.plt" w p lw 1, \
+"qval_2_4.plt" w l , "ptcl_2_4.plt" w p lw 1, \
+"qval_3_4.plt" w l , "ptcl_3_4.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_4.plt" w l , "ptcl_0_4.plt" w p lw 1, \
+"qval_1_4.plt" w l , "ptcl_1_4.plt" w p lw 1, \
+"qval_2_4.plt" w l , "ptcl_2_4.plt" w p lw 1, \
+"qval_3_4.plt" w l , "ptcl_3_4.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_4.plt" w l , "ptcl_0_4.plt" w p lw 1, \
+"qval_1_4.plt" w l , "ptcl_1_4.plt" w p lw 1, \
+"qval_2_4.plt" w l , "ptcl_2_4.plt" w p lw 1, \
+"qval_3_4.plt" w l , "ptcl_3_4.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_5.plt" w l , "ptcl_0_5.plt" w p lw 1, \
+"qval_1_5.plt" w l , "ptcl_1_5.plt" w p lw 1, \
+"qval_2_5.plt" w l , "ptcl_2_5.plt" w p lw 1, \
+"qval_3_5.plt" w l , "ptcl_3_5.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_5.plt" w l , "ptcl_0_5.plt" w p lw 1, \
+"qval_1_5.plt" w l , "ptcl_1_5.plt" w p lw 1, \
+"qval_2_5.plt" w l , "ptcl_2_5.plt" w p lw 1, \
+"qval_3_5.plt" w l , "ptcl_3_5.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_5.plt" w l , "ptcl_0_5.plt" w p lw 1, \
+"qval_1_5.plt" w l , "ptcl_1_5.plt" w p lw 1, \
+"qval_2_5.plt" w l , "ptcl_2_5.plt" w p lw 1, \
+"qval_3_5.plt" w l , "ptcl_3_5.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_5.plt" w l , "ptcl_0_5.plt" w p lw 1, \
+"qval_1_5.plt" w l , "ptcl_1_5.plt" w p lw 1, \
+"qval_2_5.plt" w l , "ptcl_2_5.plt" w p lw 1, \
+"qval_3_5.plt" w l , "ptcl_3_5.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_6.plt" w l , "ptcl_0_6.plt" w p lw 1, \
+"qval_1_6.plt" w l , "ptcl_1_6.plt" w p lw 1, \
+"qval_2_6.plt" w l , "ptcl_2_6.plt" w p lw 1, \
+"qval_3_6.plt" w l , "ptcl_3_6.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_6.plt" w l , "ptcl_0_6.plt" w p lw 1, \
+"qval_1_6.plt" w l , "ptcl_1_6.plt" w p lw 1, \
+"qval_2_6.plt" w l , "ptcl_2_6.plt" w p lw 1, \
+"qval_3_6.plt" w l , "ptcl_3_6.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_6.plt" w l , "ptcl_0_6.plt" w p lw 1, \
+"qval_1_6.plt" w l , "ptcl_1_6.plt" w p lw 1, \
+"qval_2_6.plt" w l , "ptcl_2_6.plt" w p lw 1, \
+"qval_3_6.plt" w l , "ptcl_3_6.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_6.plt" w l , "ptcl_0_6.plt" w p lw 1, \
+"qval_1_6.plt" w l , "ptcl_1_6.plt" w p lw 1, \
+"qval_2_6.plt" w l , "ptcl_2_6.plt" w p lw 1, \
+"qval_3_6.plt" w l , "ptcl_3_6.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_7.plt" w l , "ptcl_0_7.plt" w p lw 1, \
+"qval_1_7.plt" w l , "ptcl_1_7.plt" w p lw 1, \
+"qval_2_7.plt" w l , "ptcl_2_7.plt" w p lw 1, \
+"qval_3_7.plt" w l , "ptcl_3_7.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_7.plt" w l , "ptcl_0_7.plt" w p lw 1, \
+"qval_1_7.plt" w l , "ptcl_1_7.plt" w p lw 1, \
+"qval_2_7.plt" w l , "ptcl_2_7.plt" w p lw 1, \
+"qval_3_7.plt" w l , "ptcl_3_7.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_7.plt" w l , "ptcl_0_7.plt" w p lw 1, \
+"qval_1_7.plt" w l , "ptcl_1_7.plt" w p lw 1, \
+"qval_2_7.plt" w l , "ptcl_2_7.plt" w p lw 1, \
+"qval_3_7.plt" w l , "ptcl_3_7.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_7.plt" w l , "ptcl_0_7.plt" w p lw 1, \
+"qval_1_7.plt" w l , "ptcl_1_7.plt" w p lw 1, \
+"qval_2_7.plt" w l , "ptcl_2_7.plt" w p lw 1, \
+"qval_3_7.plt" w l , "ptcl_3_7.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_8.plt" w l , "ptcl_0_8.plt" w p lw 1, \
+"qval_1_8.plt" w l , "ptcl_1_8.plt" w p lw 1, \
+"qval_2_8.plt" w l , "ptcl_2_8.plt" w p lw 1, \
+"qval_3_8.plt" w l , "ptcl_3_8.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_8.plt" w l , "ptcl_0_8.plt" w p lw 1, \
+"qval_1_8.plt" w l , "ptcl_1_8.plt" w p lw 1, \
+"qval_2_8.plt" w l , "ptcl_2_8.plt" w p lw 1, \
+"qval_3_8.plt" w l , "ptcl_3_8.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_8.plt" w l , "ptcl_0_8.plt" w p lw 1, \
+"qval_1_8.plt" w l , "ptcl_1_8.plt" w p lw 1, \
+"qval_2_8.plt" w l , "ptcl_2_8.plt" w p lw 1, \
+"qval_3_8.plt" w l , "ptcl_3_8.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_8.plt" w l , "ptcl_0_8.plt" w p lw 1, \
+"qval_1_8.plt" w l , "ptcl_1_8.plt" w p lw 1, \
+"qval_2_8.plt" w l , "ptcl_2_8.plt" w p lw 1, \
+"qval_3_8.plt" w l , "ptcl_3_8.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_9.plt" w l , "ptcl_0_9.plt" w p lw 1, \
+"qval_1_9.plt" w l , "ptcl_1_9.plt" w p lw 1, \
+"qval_2_9.plt" w l , "ptcl_2_9.plt" w p lw 1, \
+"qval_3_9.plt" w l , "ptcl_3_9.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_9.plt" w l , "ptcl_0_9.plt" w p lw 1, \
+"qval_1_9.plt" w l , "ptcl_1_9.plt" w p lw 1, \
+"qval_2_9.plt" w l , "ptcl_2_9.plt" w p lw 1, \
+"qval_3_9.plt" w l , "ptcl_3_9.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_9.plt" w l , "ptcl_0_9.plt" w p lw 1, \
+"qval_1_9.plt" w l , "ptcl_1_9.plt" w p lw 1, \
+"qval_2_9.plt" w l , "ptcl_2_9.plt" w p lw 1, \
+"qval_3_9.plt" w l , "ptcl_3_9.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_9.plt" w l , "ptcl_0_9.plt" w p lw 1, \
+"qval_1_9.plt" w l , "ptcl_1_9.plt" w p lw 1, \
+"qval_2_9.plt" w l , "ptcl_2_9.plt" w p lw 1, \
+"qval_3_9.plt" w l , "ptcl_3_9.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_10.plt" w l , "ptcl_0_10.plt" w p lw 1, \
+"qval_1_10.plt" w l , "ptcl_1_10.plt" w p lw 1, \
+"qval_2_10.plt" w l , "ptcl_2_10.plt" w p lw 1, \
+"qval_3_10.plt" w l , "ptcl_3_10.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_10.plt" w l , "ptcl_0_10.plt" w p lw 1, \
+"qval_1_10.plt" w l , "ptcl_1_10.plt" w p lw 1, \
+"qval_2_10.plt" w l , "ptcl_2_10.plt" w p lw 1, \
+"qval_3_10.plt" w l , "ptcl_3_10.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_10.plt" w l , "ptcl_0_10.plt" w p lw 1, \
+"qval_1_10.plt" w l , "ptcl_1_10.plt" w p lw 1, \
+"qval_2_10.plt" w l , "ptcl_2_10.plt" w p lw 1, \
+"qval_3_10.plt" w l , "ptcl_3_10.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_10.plt" w l , "ptcl_0_10.plt" w p lw 1, \
+"qval_1_10.plt" w l , "ptcl_1_10.plt" w p lw 1, \
+"qval_2_10.plt" w l , "ptcl_2_10.plt" w p lw 1, \
+"qval_3_10.plt" w l , "ptcl_3_10.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_11.plt" w l , "ptcl_0_11.plt" w p lw 1, \
+"qval_1_11.plt" w l , "ptcl_1_11.plt" w p lw 1, \
+"qval_2_11.plt" w l , "ptcl_2_11.plt" w p lw 1, \
+"qval_3_11.plt" w l , "ptcl_3_11.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_11.plt" w l , "ptcl_0_11.plt" w p lw 1, \
+"qval_1_11.plt" w l , "ptcl_1_11.plt" w p lw 1, \
+"qval_2_11.plt" w l , "ptcl_2_11.plt" w p lw 1, \
+"qval_3_11.plt" w l , "ptcl_3_11.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_11.plt" w l , "ptcl_0_11.plt" w p lw 1, \
+"qval_1_11.plt" w l , "ptcl_1_11.plt" w p lw 1, \
+"qval_2_11.plt" w l , "ptcl_2_11.plt" w p lw 1, \
+"qval_3_11.plt" w l , "ptcl_3_11.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_11.plt" w l , "ptcl_0_11.plt" w p lw 1, \
+"qval_1_11.plt" w l , "ptcl_1_11.plt" w p lw 1, \
+"qval_2_11.plt" w l , "ptcl_2_11.plt" w p lw 1, \
+"qval_3_11.plt" w l , "ptcl_3_11.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_12.plt" w l , "ptcl_0_12.plt" w p lw 1, \
+"qval_1_12.plt" w l , "ptcl_1_12.plt" w p lw 1, \
+"qval_2_12.plt" w l , "ptcl_2_12.plt" w p lw 1, \
+"qval_3_12.plt" w l , "ptcl_3_12.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_12.plt" w l , "ptcl_0_12.plt" w p lw 1, \
+"qval_1_12.plt" w l , "ptcl_1_12.plt" w p lw 1, \
+"qval_2_12.plt" w l , "ptcl_2_12.plt" w p lw 1, \
+"qval_3_12.plt" w l , "ptcl_3_12.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_12.plt" w l , "ptcl_0_12.plt" w p lw 1, \
+"qval_1_12.plt" w l , "ptcl_1_12.plt" w p lw 1, \
+"qval_2_12.plt" w l , "ptcl_2_12.plt" w p lw 1, \
+"qval_3_12.plt" w l , "ptcl_3_12.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_12.plt" w l , "ptcl_0_12.plt" w p lw 1, \
+"qval_1_12.plt" w l , "ptcl_1_12.plt" w p lw 1, \
+"qval_2_12.plt" w l , "ptcl_2_12.plt" w p lw 1, \
+"qval_3_12.plt" w l , "ptcl_3_12.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_13.plt" w l , "ptcl_0_13.plt" w p lw 1, \
+"qval_1_13.plt" w l , "ptcl_1_13.plt" w p lw 1, \
+"qval_2_13.plt" w l , "ptcl_2_13.plt" w p lw 1, \
+"qval_3_13.plt" w l , "ptcl_3_13.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_13.plt" w l , "ptcl_0_13.plt" w p lw 1, \
+"qval_1_13.plt" w l , "ptcl_1_13.plt" w p lw 1, \
+"qval_2_13.plt" w l , "ptcl_2_13.plt" w p lw 1, \
+"qval_3_13.plt" w l , "ptcl_3_13.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_13.plt" w l , "ptcl_0_13.plt" w p lw 1, \
+"qval_1_13.plt" w l , "ptcl_1_13.plt" w p lw 1, \
+"qval_2_13.plt" w l , "ptcl_2_13.plt" w p lw 1, \
+"qval_3_13.plt" w l , "ptcl_3_13.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_13.plt" w l , "ptcl_0_13.plt" w p lw 1, \
+"qval_1_13.plt" w l , "ptcl_1_13.plt" w p lw 1, \
+"qval_2_13.plt" w l , "ptcl_2_13.plt" w p lw 1, \
+"qval_3_13.plt" w l , "ptcl_3_13.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_14.plt" w l , "ptcl_0_14.plt" w p lw 1, \
+"qval_1_14.plt" w l , "ptcl_1_14.plt" w p lw 1, \
+"qval_2_14.plt" w l , "ptcl_2_14.plt" w p lw 1, \
+"qval_3_14.plt" w l , "ptcl_3_14.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_14.plt" w l , "ptcl_0_14.plt" w p lw 1, \
+"qval_1_14.plt" w l , "ptcl_1_14.plt" w p lw 1, \
+"qval_2_14.plt" w l , "ptcl_2_14.plt" w p lw 1, \
+"qval_3_14.plt" w l , "ptcl_3_14.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_14.plt" w l , "ptcl_0_14.plt" w p lw 1, \
+"qval_1_14.plt" w l , "ptcl_1_14.plt" w p lw 1, \
+"qval_2_14.plt" w l , "ptcl_2_14.plt" w p lw 1, \
+"qval_3_14.plt" w l , "ptcl_3_14.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_14.plt" w l , "ptcl_0_14.plt" w p lw 1, \
+"qval_1_14.plt" w l , "ptcl_1_14.plt" w p lw 1, \
+"qval_2_14.plt" w l , "ptcl_2_14.plt" w p lw 1, \
+"qval_3_14.plt" w l , "ptcl_3_14.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_15.plt" w l , "ptcl_0_15.plt" w p lw 1, \
+"qval_1_15.plt" w l , "ptcl_1_15.plt" w p lw 1, \
+"qval_2_15.plt" w l , "ptcl_2_15.plt" w p lw 1, \
+"qval_3_15.plt" w l , "ptcl_3_15.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_15.plt" w l , "ptcl_0_15.plt" w p lw 1, \
+"qval_1_15.plt" w l , "ptcl_1_15.plt" w p lw 1, \
+"qval_2_15.plt" w l , "ptcl_2_15.plt" w p lw 1, \
+"qval_3_15.plt" w l , "ptcl_3_15.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_15.plt" w l , "ptcl_0_15.plt" w p lw 1, \
+"qval_1_15.plt" w l , "ptcl_1_15.plt" w p lw 1, \
+"qval_2_15.plt" w l , "ptcl_2_15.plt" w p lw 1, \
+"qval_3_15.plt" w l , "ptcl_3_15.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_15.plt" w l , "ptcl_0_15.plt" w p lw 1, \
+"qval_1_15.plt" w l , "ptcl_1_15.plt" w p lw 1, \
+"qval_2_15.plt" w l , "ptcl_2_15.plt" w p lw 1, \
+"qval_3_15.plt" w l , "ptcl_3_15.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_16.plt" w l , "ptcl_0_16.plt" w p lw 1, \
+"qval_1_16.plt" w l , "ptcl_1_16.plt" w p lw 1, \
+"qval_2_16.plt" w l , "ptcl_2_16.plt" w p lw 1, \
+"qval_3_16.plt" w l , "ptcl_3_16.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_16.plt" w l , "ptcl_0_16.plt" w p lw 1, \
+"qval_1_16.plt" w l , "ptcl_1_16.plt" w p lw 1, \
+"qval_2_16.plt" w l , "ptcl_2_16.plt" w p lw 1, \
+"qval_3_16.plt" w l , "ptcl_3_16.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_16.plt" w l , "ptcl_0_16.plt" w p lw 1, \
+"qval_1_16.plt" w l , "ptcl_1_16.plt" w p lw 1, \
+"qval_2_16.plt" w l , "ptcl_2_16.plt" w p lw 1, \
+"qval_3_16.plt" w l , "ptcl_3_16.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_16.plt" w l , "ptcl_0_16.plt" w p lw 1, \
+"qval_1_16.plt" w l , "ptcl_1_16.plt" w p lw 1, \
+"qval_2_16.plt" w l , "ptcl_2_16.plt" w p lw 1, \
+"qval_3_16.plt" w l , "ptcl_3_16.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_17.plt" w l , "ptcl_0_17.plt" w p lw 1, \
+"qval_1_17.plt" w l , "ptcl_1_17.plt" w p lw 1, \
+"qval_2_17.plt" w l , "ptcl_2_17.plt" w p lw 1, \
+"qval_3_17.plt" w l , "ptcl_3_17.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_17.plt" w l , "ptcl_0_17.plt" w p lw 1, \
+"qval_1_17.plt" w l , "ptcl_1_17.plt" w p lw 1, \
+"qval_2_17.plt" w l , "ptcl_2_17.plt" w p lw 1, \
+"qval_3_17.plt" w l , "ptcl_3_17.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_17.plt" w l , "ptcl_0_17.plt" w p lw 1, \
+"qval_1_17.plt" w l , "ptcl_1_17.plt" w p lw 1, \
+"qval_2_17.plt" w l , "ptcl_2_17.plt" w p lw 1, \
+"qval_3_17.plt" w l , "ptcl_3_17.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_17.plt" w l , "ptcl_0_17.plt" w p lw 1, \
+"qval_1_17.plt" w l , "ptcl_1_17.plt" w p lw 1, \
+"qval_2_17.plt" w l , "ptcl_2_17.plt" w p lw 1, \
+"qval_3_17.plt" w l , "ptcl_3_17.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_18.plt" w l , "ptcl_0_18.plt" w p lw 1, \
+"qval_1_18.plt" w l , "ptcl_1_18.plt" w p lw 1, \
+"qval_2_18.plt" w l , "ptcl_2_18.plt" w p lw 1, \
+"qval_3_18.plt" w l , "ptcl_3_18.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_18.plt" w l , "ptcl_0_18.plt" w p lw 1, \
+"qval_1_18.plt" w l , "ptcl_1_18.plt" w p lw 1, \
+"qval_2_18.plt" w l , "ptcl_2_18.plt" w p lw 1, \
+"qval_3_18.plt" w l , "ptcl_3_18.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_18.plt" w l , "ptcl_0_18.plt" w p lw 1, \
+"qval_1_18.plt" w l , "ptcl_1_18.plt" w p lw 1, \
+"qval_2_18.plt" w l , "ptcl_2_18.plt" w p lw 1, \
+"qval_3_18.plt" w l , "ptcl_3_18.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_18.plt" w l , "ptcl_0_18.plt" w p lw 1, \
+"qval_1_18.plt" w l , "ptcl_1_18.plt" w p lw 1, \
+"qval_2_18.plt" w l , "ptcl_2_18.plt" w p lw 1, \
+"qval_3_18.plt" w l , "ptcl_3_18.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_19.plt" w l , "ptcl_0_19.plt" w p lw 1, \
+"qval_1_19.plt" w l , "ptcl_1_19.plt" w p lw 1, \
+"qval_2_19.plt" w l , "ptcl_2_19.plt" w p lw 1, \
+"qval_3_19.plt" w l , "ptcl_3_19.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_19.plt" w l , "ptcl_0_19.plt" w p lw 1, \
+"qval_1_19.plt" w l , "ptcl_1_19.plt" w p lw 1, \
+"qval_2_19.plt" w l , "ptcl_2_19.plt" w p lw 1, \
+"qval_3_19.plt" w l , "ptcl_3_19.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_19.plt" w l , "ptcl_0_19.plt" w p lw 1, \
+"qval_1_19.plt" w l , "ptcl_1_19.plt" w p lw 1, \
+"qval_2_19.plt" w l , "ptcl_2_19.plt" w p lw 1, \
+"qval_3_19.plt" w l , "ptcl_3_19.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_19.plt" w l , "ptcl_0_19.plt" w p lw 1, \
+"qval_1_19.plt" w l , "ptcl_1_19.plt" w p lw 1, \
+"qval_2_19.plt" w l , "ptcl_2_19.plt" w p lw 1, \
+"qval_3_19.plt" w l , "ptcl_3_19.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_20.plt" w l , "ptcl_0_20.plt" w p lw 1, \
+"qval_1_20.plt" w l , "ptcl_1_20.plt" w p lw 1, \
+"qval_2_20.plt" w l , "ptcl_2_20.plt" w p lw 1, \
+"qval_3_20.plt" w l , "ptcl_3_20.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_20.plt" w l , "ptcl_0_20.plt" w p lw 1, \
+"qval_1_20.plt" w l , "ptcl_1_20.plt" w p lw 1, \
+"qval_2_20.plt" w l , "ptcl_2_20.plt" w p lw 1, \
+"qval_3_20.plt" w l , "ptcl_3_20.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_20.plt" w l , "ptcl_0_20.plt" w p lw 1, \
+"qval_1_20.plt" w l , "ptcl_1_20.plt" w p lw 1, \
+"qval_2_20.plt" w l , "ptcl_2_20.plt" w p lw 1, \
+"qval_3_20.plt" w l , "ptcl_3_20.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_20.plt" w l , "ptcl_0_20.plt" w p lw 1, \
+"qval_1_20.plt" w l , "ptcl_1_20.plt" w p lw 1, \
+"qval_2_20.plt" w l , "ptcl_2_20.plt" w p lw 1, \
+"qval_3_20.plt" w l , "ptcl_3_20.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_21.plt" w l , "ptcl_0_21.plt" w p lw 1, \
+"qval_1_21.plt" w l , "ptcl_1_21.plt" w p lw 1, \
+"qval_2_21.plt" w l , "ptcl_2_21.plt" w p lw 1, \
+"qval_3_21.plt" w l , "ptcl_3_21.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_21.plt" w l , "ptcl_0_21.plt" w p lw 1, \
+"qval_1_21.plt" w l , "ptcl_1_21.plt" w p lw 1, \
+"qval_2_21.plt" w l , "ptcl_2_21.plt" w p lw 1, \
+"qval_3_21.plt" w l , "ptcl_3_21.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_21.plt" w l , "ptcl_0_21.plt" w p lw 1, \
+"qval_1_21.plt" w l , "ptcl_1_21.plt" w p lw 1, \
+"qval_2_21.plt" w l , "ptcl_2_21.plt" w p lw 1, \
+"qval_3_21.plt" w l , "ptcl_3_21.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_21.plt" w l , "ptcl_0_21.plt" w p lw 1, \
+"qval_1_21.plt" w l , "ptcl_1_21.plt" w p lw 1, \
+"qval_2_21.plt" w l , "ptcl_2_21.plt" w p lw 1, \
+"qval_3_21.plt" w l , "ptcl_3_21.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_22.plt" w l , "ptcl_0_22.plt" w p lw 1, \
+"qval_1_22.plt" w l , "ptcl_1_22.plt" w p lw 1, \
+"qval_2_22.plt" w l , "ptcl_2_22.plt" w p lw 1, \
+"qval_3_22.plt" w l , "ptcl_3_22.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_22.plt" w l , "ptcl_0_22.plt" w p lw 1, \
+"qval_1_22.plt" w l , "ptcl_1_22.plt" w p lw 1, \
+"qval_2_22.plt" w l , "ptcl_2_22.plt" w p lw 1, \
+"qval_3_22.plt" w l , "ptcl_3_22.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_22.plt" w l , "ptcl_0_22.plt" w p lw 1, \
+"qval_1_22.plt" w l , "ptcl_1_22.plt" w p lw 1, \
+"qval_2_22.plt" w l , "ptcl_2_22.plt" w p lw 1, \
+"qval_3_22.plt" w l , "ptcl_3_22.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_22.plt" w l , "ptcl_0_22.plt" w p lw 1, \
+"qval_1_22.plt" w l , "ptcl_1_22.plt" w p lw 1, \
+"qval_2_22.plt" w l , "ptcl_2_22.plt" w p lw 1, \
+"qval_3_22.plt" w l , "ptcl_3_22.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_23.plt" w l , "ptcl_0_23.plt" w p lw 1, \
+"qval_1_23.plt" w l , "ptcl_1_23.plt" w p lw 1, \
+"qval_2_23.plt" w l , "ptcl_2_23.plt" w p lw 1, \
+"qval_3_23.plt" w l , "ptcl_3_23.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_23.plt" w l , "ptcl_0_23.plt" w p lw 1, \
+"qval_1_23.plt" w l , "ptcl_1_23.plt" w p lw 1, \
+"qval_2_23.plt" w l , "ptcl_2_23.plt" w p lw 1, \
+"qval_3_23.plt" w l , "ptcl_3_23.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_23.plt" w l , "ptcl_0_23.plt" w p lw 1, \
+"qval_1_23.plt" w l , "ptcl_1_23.plt" w p lw 1, \
+"qval_2_23.plt" w l , "ptcl_2_23.plt" w p lw 1, \
+"qval_3_23.plt" w l , "ptcl_3_23.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_23.plt" w l , "ptcl_0_23.plt" w p lw 1, \
+"qval_1_23.plt" w l , "ptcl_1_23.plt" w p lw 1, \
+"qval_2_23.plt" w l , "ptcl_2_23.plt" w p lw 1, \
+"qval_3_23.plt" w l , "ptcl_3_23.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_24.plt" w l , "ptcl_0_24.plt" w p lw 1, \
+"qval_1_24.plt" w l , "ptcl_1_24.plt" w p lw 1, \
+"qval_2_24.plt" w l , "ptcl_2_24.plt" w p lw 1, \
+"qval_3_24.plt" w l , "ptcl_3_24.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_24.plt" w l , "ptcl_0_24.plt" w p lw 1, \
+"qval_1_24.plt" w l , "ptcl_1_24.plt" w p lw 1, \
+"qval_2_24.plt" w l , "ptcl_2_24.plt" w p lw 1, \
+"qval_3_24.plt" w l , "ptcl_3_24.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_24.plt" w l , "ptcl_0_24.plt" w p lw 1, \
+"qval_1_24.plt" w l , "ptcl_1_24.plt" w p lw 1, \
+"qval_2_24.plt" w l , "ptcl_2_24.plt" w p lw 1, \
+"qval_3_24.plt" w l , "ptcl_3_24.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_24.plt" w l , "ptcl_0_24.plt" w p lw 1, \
+"qval_1_24.plt" w l , "ptcl_1_24.plt" w p lw 1, \
+"qval_2_24.plt" w l , "ptcl_2_24.plt" w p lw 1, \
+"qval_3_24.plt" w l , "ptcl_3_24.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_25.plt" w l , "ptcl_0_25.plt" w p lw 1, \
+"qval_1_25.plt" w l , "ptcl_1_25.plt" w p lw 1, \
+"qval_2_25.plt" w l , "ptcl_2_25.plt" w p lw 1, \
+"qval_3_25.plt" w l , "ptcl_3_25.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_25.plt" w l , "ptcl_0_25.plt" w p lw 1, \
+"qval_1_25.plt" w l , "ptcl_1_25.plt" w p lw 1, \
+"qval_2_25.plt" w l , "ptcl_2_25.plt" w p lw 1, \
+"qval_3_25.plt" w l , "ptcl_3_25.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_25.plt" w l , "ptcl_0_25.plt" w p lw 1, \
+"qval_1_25.plt" w l , "ptcl_1_25.plt" w p lw 1, \
+"qval_2_25.plt" w l , "ptcl_2_25.plt" w p lw 1, \
+"qval_3_25.plt" w l , "ptcl_3_25.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_25.plt" w l , "ptcl_0_25.plt" w p lw 1, \
+"qval_1_25.plt" w l , "ptcl_1_25.plt" w p lw 1, \
+"qval_2_25.plt" w l , "ptcl_2_25.plt" w p lw 1, \
+"qval_3_25.plt" w l , "ptcl_3_25.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_26.plt" w l , "ptcl_0_26.plt" w p lw 1, \
+"qval_1_26.plt" w l , "ptcl_1_26.plt" w p lw 1, \
+"qval_2_26.plt" w l , "ptcl_2_26.plt" w p lw 1, \
+"qval_3_26.plt" w l , "ptcl_3_26.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_26.plt" w l , "ptcl_0_26.plt" w p lw 1, \
+"qval_1_26.plt" w l , "ptcl_1_26.plt" w p lw 1, \
+"qval_2_26.plt" w l , "ptcl_2_26.plt" w p lw 1, \
+"qval_3_26.plt" w l , "ptcl_3_26.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_26.plt" w l , "ptcl_0_26.plt" w p lw 1, \
+"qval_1_26.plt" w l , "ptcl_1_26.plt" w p lw 1, \
+"qval_2_26.plt" w l , "ptcl_2_26.plt" w p lw 1, \
+"qval_3_26.plt" w l , "ptcl_3_26.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_26.plt" w l , "ptcl_0_26.plt" w p lw 1, \
+"qval_1_26.plt" w l , "ptcl_1_26.plt" w p lw 1, \
+"qval_2_26.plt" w l , "ptcl_2_26.plt" w p lw 1, \
+"qval_3_26.plt" w l , "ptcl_3_26.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_27.plt" w l , "ptcl_0_27.plt" w p lw 1, \
+"qval_1_27.plt" w l , "ptcl_1_27.plt" w p lw 1, \
+"qval_2_27.plt" w l , "ptcl_2_27.plt" w p lw 1, \
+"qval_3_27.plt" w l , "ptcl_3_27.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_27.plt" w l , "ptcl_0_27.plt" w p lw 1, \
+"qval_1_27.plt" w l , "ptcl_1_27.plt" w p lw 1, \
+"qval_2_27.plt" w l , "ptcl_2_27.plt" w p lw 1, \
+"qval_3_27.plt" w l , "ptcl_3_27.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_27.plt" w l , "ptcl_0_27.plt" w p lw 1, \
+"qval_1_27.plt" w l , "ptcl_1_27.plt" w p lw 1, \
+"qval_2_27.plt" w l , "ptcl_2_27.plt" w p lw 1, \
+"qval_3_27.plt" w l , "ptcl_3_27.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_27.plt" w l , "ptcl_0_27.plt" w p lw 1, \
+"qval_1_27.plt" w l , "ptcl_1_27.plt" w p lw 1, \
+"qval_2_27.plt" w l , "ptcl_2_27.plt" w p lw 1, \
+"qval_3_27.plt" w l , "ptcl_3_27.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_28.plt" w l , "ptcl_0_28.plt" w p lw 1, \
+"qval_1_28.plt" w l , "ptcl_1_28.plt" w p lw 1, \
+"qval_2_28.plt" w l , "ptcl_2_28.plt" w p lw 1, \
+"qval_3_28.plt" w l , "ptcl_3_28.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_28.plt" w l , "ptcl_0_28.plt" w p lw 1, \
+"qval_1_28.plt" w l , "ptcl_1_28.plt" w p lw 1, \
+"qval_2_28.plt" w l , "ptcl_2_28.plt" w p lw 1, \
+"qval_3_28.plt" w l , "ptcl_3_28.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_28.plt" w l , "ptcl_0_28.plt" w p lw 1, \
+"qval_1_28.plt" w l , "ptcl_1_28.plt" w p lw 1, \
+"qval_2_28.plt" w l , "ptcl_2_28.plt" w p lw 1, \
+"qval_3_28.plt" w l , "ptcl_3_28.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_28.plt" w l , "ptcl_0_28.plt" w p lw 1, \
+"qval_1_28.plt" w l , "ptcl_1_28.plt" w p lw 1, \
+"qval_2_28.plt" w l , "ptcl_2_28.plt" w p lw 1, \
+"qval_3_28.plt" w l , "ptcl_3_28.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_29.plt" w l , "ptcl_0_29.plt" w p lw 1, \
+"qval_1_29.plt" w l , "ptcl_1_29.plt" w p lw 1, \
+"qval_2_29.plt" w l , "ptcl_2_29.plt" w p lw 1, \
+"qval_3_29.plt" w l , "ptcl_3_29.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_29.plt" w l , "ptcl_0_29.plt" w p lw 1, \
+"qval_1_29.plt" w l , "ptcl_1_29.plt" w p lw 1, \
+"qval_2_29.plt" w l , "ptcl_2_29.plt" w p lw 1, \
+"qval_3_29.plt" w l , "ptcl_3_29.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_29.plt" w l , "ptcl_0_29.plt" w p lw 1, \
+"qval_1_29.plt" w l , "ptcl_1_29.plt" w p lw 1, \
+"qval_2_29.plt" w l , "ptcl_2_29.plt" w p lw 1, \
+"qval_3_29.plt" w l , "ptcl_3_29.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_29.plt" w l , "ptcl_0_29.plt" w p lw 1, \
+"qval_1_29.plt" w l , "ptcl_1_29.plt" w p lw 1, \
+"qval_2_29.plt" w l , "ptcl_2_29.plt" w p lw 1, \
+"qval_3_29.plt" w l , "ptcl_3_29.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_30.plt" w l , "ptcl_0_30.plt" w p lw 1, \
+"qval_1_30.plt" w l , "ptcl_1_30.plt" w p lw 1, \
+"qval_2_30.plt" w l , "ptcl_2_30.plt" w p lw 1, \
+"qval_3_30.plt" w l , "ptcl_3_30.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_30.plt" w l , "ptcl_0_30.plt" w p lw 1, \
+"qval_1_30.plt" w l , "ptcl_1_30.plt" w p lw 1, \
+"qval_2_30.plt" w l , "ptcl_2_30.plt" w p lw 1, \
+"qval_3_30.plt" w l , "ptcl_3_30.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_30.plt" w l , "ptcl_0_30.plt" w p lw 1, \
+"qval_1_30.plt" w l , "ptcl_1_30.plt" w p lw 1, \
+"qval_2_30.plt" w l , "ptcl_2_30.plt" w p lw 1, \
+"qval_3_30.plt" w l , "ptcl_3_30.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_30.plt" w l , "ptcl_0_30.plt" w p lw 1, \
+"qval_1_30.plt" w l , "ptcl_1_30.plt" w p lw 1, \
+"qval_2_30.plt" w l , "ptcl_2_30.plt" w p lw 1, \
+"qval_3_30.plt" w l , "ptcl_3_30.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_31.plt" w l , "ptcl_0_31.plt" w p lw 1, \
+"qval_1_31.plt" w l , "ptcl_1_31.plt" w p lw 1, \
+"qval_2_31.plt" w l , "ptcl_2_31.plt" w p lw 1, \
+"qval_3_31.plt" w l , "ptcl_3_31.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_31.plt" w l , "ptcl_0_31.plt" w p lw 1, \
+"qval_1_31.plt" w l , "ptcl_1_31.plt" w p lw 1, \
+"qval_2_31.plt" w l , "ptcl_2_31.plt" w p lw 1, \
+"qval_3_31.plt" w l , "ptcl_3_31.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_31.plt" w l , "ptcl_0_31.plt" w p lw 1, \
+"qval_1_31.plt" w l , "ptcl_1_31.plt" w p lw 1, \
+"qval_2_31.plt" w l , "ptcl_2_31.plt" w p lw 1, \
+"qval_3_31.plt" w l , "ptcl_3_31.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_31.plt" w l , "ptcl_0_31.plt" w p lw 1, \
+"qval_1_31.plt" w l , "ptcl_1_31.plt" w p lw 1, \
+"qval_2_31.plt" w l , "ptcl_2_31.plt" w p lw 1, \
+"qval_3_31.plt" w l , "ptcl_3_31.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_32.plt" w l , "ptcl_0_32.plt" w p lw 1, \
+"qval_1_32.plt" w l , "ptcl_1_32.plt" w p lw 1, \
+"qval_2_32.plt" w l , "ptcl_2_32.plt" w p lw 1, \
+"qval_3_32.plt" w l , "ptcl_3_32.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_32.plt" w l , "ptcl_0_32.plt" w p lw 1, \
+"qval_1_32.plt" w l , "ptcl_1_32.plt" w p lw 1, \
+"qval_2_32.plt" w l , "ptcl_2_32.plt" w p lw 1, \
+"qval_3_32.plt" w l , "ptcl_3_32.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_32.plt" w l , "ptcl_0_32.plt" w p lw 1, \
+"qval_1_32.plt" w l , "ptcl_1_32.plt" w p lw 1, \
+"qval_2_32.plt" w l , "ptcl_2_32.plt" w p lw 1, \
+"qval_3_32.plt" w l , "ptcl_3_32.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_32.plt" w l , "ptcl_0_32.plt" w p lw 1, \
+"qval_1_32.plt" w l , "ptcl_1_32.plt" w p lw 1, \
+"qval_2_32.plt" w l , "ptcl_2_32.plt" w p lw 1, \
+"qval_3_32.plt" w l , "ptcl_3_32.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_33.plt" w l , "ptcl_0_33.plt" w p lw 1, \
+"qval_1_33.plt" w l , "ptcl_1_33.plt" w p lw 1, \
+"qval_2_33.plt" w l , "ptcl_2_33.plt" w p lw 1, \
+"qval_3_33.plt" w l , "ptcl_3_33.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_33.plt" w l , "ptcl_0_33.plt" w p lw 1, \
+"qval_1_33.plt" w l , "ptcl_1_33.plt" w p lw 1, \
+"qval_2_33.plt" w l , "ptcl_2_33.plt" w p lw 1, \
+"qval_3_33.plt" w l , "ptcl_3_33.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_33.plt" w l , "ptcl_0_33.plt" w p lw 1, \
+"qval_1_33.plt" w l , "ptcl_1_33.plt" w p lw 1, \
+"qval_2_33.plt" w l , "ptcl_2_33.plt" w p lw 1, \
+"qval_3_33.plt" w l , "ptcl_3_33.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_33.plt" w l , "ptcl_0_33.plt" w p lw 1, \
+"qval_1_33.plt" w l , "ptcl_1_33.plt" w p lw 1, \
+"qval_2_33.plt" w l , "ptcl_2_33.plt" w p lw 1, \
+"qval_3_33.plt" w l , "ptcl_3_33.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_34.plt" w l , "ptcl_0_34.plt" w p lw 1, \
+"qval_1_34.plt" w l , "ptcl_1_34.plt" w p lw 1, \
+"qval_2_34.plt" w l , "ptcl_2_34.plt" w p lw 1, \
+"qval_3_34.plt" w l , "ptcl_3_34.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_34.plt" w l , "ptcl_0_34.plt" w p lw 1, \
+"qval_1_34.plt" w l , "ptcl_1_34.plt" w p lw 1, \
+"qval_2_34.plt" w l , "ptcl_2_34.plt" w p lw 1, \
+"qval_3_34.plt" w l , "ptcl_3_34.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_34.plt" w l , "ptcl_0_34.plt" w p lw 1, \
+"qval_1_34.plt" w l , "ptcl_1_34.plt" w p lw 1, \
+"qval_2_34.plt" w l , "ptcl_2_34.plt" w p lw 1, \
+"qval_3_34.plt" w l , "ptcl_3_34.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_34.plt" w l , "ptcl_0_34.plt" w p lw 1, \
+"qval_1_34.plt" w l , "ptcl_1_34.plt" w p lw 1, \
+"qval_2_34.plt" w l , "ptcl_2_34.plt" w p lw 1, \
+"qval_3_34.plt" w l , "ptcl_3_34.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_35.plt" w l , "ptcl_0_35.plt" w p lw 1, \
+"qval_1_35.plt" w l , "ptcl_1_35.plt" w p lw 1, \
+"qval_2_35.plt" w l , "ptcl_2_35.plt" w p lw 1, \
+"qval_3_35.plt" w l , "ptcl_3_35.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_35.plt" w l , "ptcl_0_35.plt" w p lw 1, \
+"qval_1_35.plt" w l , "ptcl_1_35.plt" w p lw 1, \
+"qval_2_35.plt" w l , "ptcl_2_35.plt" w p lw 1, \
+"qval_3_35.plt" w l , "ptcl_3_35.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_35.plt" w l , "ptcl_0_35.plt" w p lw 1, \
+"qval_1_35.plt" w l , "ptcl_1_35.plt" w p lw 1, \
+"qval_2_35.plt" w l , "ptcl_2_35.plt" w p lw 1, \
+"qval_3_35.plt" w l , "ptcl_3_35.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_35.plt" w l , "ptcl_0_35.plt" w p lw 1, \
+"qval_1_35.plt" w l , "ptcl_1_35.plt" w p lw 1, \
+"qval_2_35.plt" w l , "ptcl_2_35.plt" w p lw 1, \
+"qval_3_35.plt" w l , "ptcl_3_35.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_36.plt" w l , "ptcl_0_36.plt" w p lw 1, \
+"qval_1_36.plt" w l , "ptcl_1_36.plt" w p lw 1, \
+"qval_2_36.plt" w l , "ptcl_2_36.plt" w p lw 1, \
+"qval_3_36.plt" w l , "ptcl_3_36.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_36.plt" w l , "ptcl_0_36.plt" w p lw 1, \
+"qval_1_36.plt" w l , "ptcl_1_36.plt" w p lw 1, \
+"qval_2_36.plt" w l , "ptcl_2_36.plt" w p lw 1, \
+"qval_3_36.plt" w l , "ptcl_3_36.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_36.plt" w l , "ptcl_0_36.plt" w p lw 1, \
+"qval_1_36.plt" w l , "ptcl_1_36.plt" w p lw 1, \
+"qval_2_36.plt" w l , "ptcl_2_36.plt" w p lw 1, \
+"qval_3_36.plt" w l , "ptcl_3_36.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_36.plt" w l , "ptcl_0_36.plt" w p lw 1, \
+"qval_1_36.plt" w l , "ptcl_1_36.plt" w p lw 1, \
+"qval_2_36.plt" w l , "ptcl_2_36.plt" w p lw 1, \
+"qval_3_36.plt" w l , "ptcl_3_36.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_37.plt" w l , "ptcl_0_37.plt" w p lw 1, \
+"qval_1_37.plt" w l , "ptcl_1_37.plt" w p lw 1, \
+"qval_2_37.plt" w l , "ptcl_2_37.plt" w p lw 1, \
+"qval_3_37.plt" w l , "ptcl_3_37.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_37.plt" w l , "ptcl_0_37.plt" w p lw 1, \
+"qval_1_37.plt" w l , "ptcl_1_37.plt" w p lw 1, \
+"qval_2_37.plt" w l , "ptcl_2_37.plt" w p lw 1, \
+"qval_3_37.plt" w l , "ptcl_3_37.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_37.plt" w l , "ptcl_0_37.plt" w p lw 1, \
+"qval_1_37.plt" w l , "ptcl_1_37.plt" w p lw 1, \
+"qval_2_37.plt" w l , "ptcl_2_37.plt" w p lw 1, \
+"qval_3_37.plt" w l , "ptcl_3_37.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_37.plt" w l , "ptcl_0_37.plt" w p lw 1, \
+"qval_1_37.plt" w l , "ptcl_1_37.plt" w p lw 1, \
+"qval_2_37.plt" w l , "ptcl_2_37.plt" w p lw 1, \
+"qval_3_37.plt" w l , "ptcl_3_37.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_38.plt" w l , "ptcl_0_38.plt" w p lw 1, \
+"qval_1_38.plt" w l , "ptcl_1_38.plt" w p lw 1, \
+"qval_2_38.plt" w l , "ptcl_2_38.plt" w p lw 1, \
+"qval_3_38.plt" w l , "ptcl_3_38.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_38.plt" w l , "ptcl_0_38.plt" w p lw 1, \
+"qval_1_38.plt" w l , "ptcl_1_38.plt" w p lw 1, \
+"qval_2_38.plt" w l , "ptcl_2_38.plt" w p lw 1, \
+"qval_3_38.plt" w l , "ptcl_3_38.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_38.plt" w l , "ptcl_0_38.plt" w p lw 1, \
+"qval_1_38.plt" w l , "ptcl_1_38.plt" w p lw 1, \
+"qval_2_38.plt" w l , "ptcl_2_38.plt" w p lw 1, \
+"qval_3_38.plt" w l , "ptcl_3_38.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_38.plt" w l , "ptcl_0_38.plt" w p lw 1, \
+"qval_1_38.plt" w l , "ptcl_1_38.plt" w p lw 1, \
+"qval_2_38.plt" w l , "ptcl_2_38.plt" w p lw 1, \
+"qval_3_38.plt" w l , "ptcl_3_38.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_39.plt" w l , "ptcl_0_39.plt" w p lw 1, \
+"qval_1_39.plt" w l , "ptcl_1_39.plt" w p lw 1, \
+"qval_2_39.plt" w l , "ptcl_2_39.plt" w p lw 1, \
+"qval_3_39.plt" w l , "ptcl_3_39.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_39.plt" w l , "ptcl_0_39.plt" w p lw 1, \
+"qval_1_39.plt" w l , "ptcl_1_39.plt" w p lw 1, \
+"qval_2_39.plt" w l , "ptcl_2_39.plt" w p lw 1, \
+"qval_3_39.plt" w l , "ptcl_3_39.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_39.plt" w l , "ptcl_0_39.plt" w p lw 1, \
+"qval_1_39.plt" w l , "ptcl_1_39.plt" w p lw 1, \
+"qval_2_39.plt" w l , "ptcl_2_39.plt" w p lw 1, \
+"qval_3_39.plt" w l , "ptcl_3_39.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_39.plt" w l , "ptcl_0_39.plt" w p lw 1, \
+"qval_1_39.plt" w l , "ptcl_1_39.plt" w p lw 1, \
+"qval_2_39.plt" w l , "ptcl_2_39.plt" w p lw 1, \
+"qval_3_39.plt" w l , "ptcl_3_39.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_40.plt" w l , "ptcl_0_40.plt" w p lw 1, \
+"qval_1_40.plt" w l , "ptcl_1_40.plt" w p lw 1, \
+"qval_2_40.plt" w l , "ptcl_2_40.plt" w p lw 1, \
+"qval_3_40.plt" w l , "ptcl_3_40.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_40.plt" w l , "ptcl_0_40.plt" w p lw 1, \
+"qval_1_40.plt" w l , "ptcl_1_40.plt" w p lw 1, \
+"qval_2_40.plt" w l , "ptcl_2_40.plt" w p lw 1, \
+"qval_3_40.plt" w l , "ptcl_3_40.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_40.plt" w l , "ptcl_0_40.plt" w p lw 1, \
+"qval_1_40.plt" w l , "ptcl_1_40.plt" w p lw 1, \
+"qval_2_40.plt" w l , "ptcl_2_40.plt" w p lw 1, \
+"qval_3_40.plt" w l , "ptcl_3_40.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_40.plt" w l , "ptcl_0_40.plt" w p lw 1, \
+"qval_1_40.plt" w l , "ptcl_1_40.plt" w p lw 1, \
+"qval_2_40.plt" w l , "ptcl_2_40.plt" w p lw 1, \
+"qval_3_40.plt" w l , "ptcl_3_40.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_41.plt" w l , "ptcl_0_41.plt" w p lw 1, \
+"qval_1_41.plt" w l , "ptcl_1_41.plt" w p lw 1, \
+"qval_2_41.plt" w l , "ptcl_2_41.plt" w p lw 1, \
+"qval_3_41.plt" w l , "ptcl_3_41.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_41.plt" w l , "ptcl_0_41.plt" w p lw 1, \
+"qval_1_41.plt" w l , "ptcl_1_41.plt" w p lw 1, \
+"qval_2_41.plt" w l , "ptcl_2_41.plt" w p lw 1, \
+"qval_3_41.plt" w l , "ptcl_3_41.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_41.plt" w l , "ptcl_0_41.plt" w p lw 1, \
+"qval_1_41.plt" w l , "ptcl_1_41.plt" w p lw 1, \
+"qval_2_41.plt" w l , "ptcl_2_41.plt" w p lw 1, \
+"qval_3_41.plt" w l , "ptcl_3_41.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_41.plt" w l , "ptcl_0_41.plt" w p lw 1, \
+"qval_1_41.plt" w l , "ptcl_1_41.plt" w p lw 1, \
+"qval_2_41.plt" w l , "ptcl_2_41.plt" w p lw 1, \
+"qval_3_41.plt" w l , "ptcl_3_41.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_42.plt" w l , "ptcl_0_42.plt" w p lw 1, \
+"qval_1_42.plt" w l , "ptcl_1_42.plt" w p lw 1, \
+"qval_2_42.plt" w l , "ptcl_2_42.plt" w p lw 1, \
+"qval_3_42.plt" w l , "ptcl_3_42.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_42.plt" w l , "ptcl_0_42.plt" w p lw 1, \
+"qval_1_42.plt" w l , "ptcl_1_42.plt" w p lw 1, \
+"qval_2_42.plt" w l , "ptcl_2_42.plt" w p lw 1, \
+"qval_3_42.plt" w l , "ptcl_3_42.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_42.plt" w l , "ptcl_0_42.plt" w p lw 1, \
+"qval_1_42.plt" w l , "ptcl_1_42.plt" w p lw 1, \
+"qval_2_42.plt" w l , "ptcl_2_42.plt" w p lw 1, \
+"qval_3_42.plt" w l , "ptcl_3_42.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_42.plt" w l , "ptcl_0_42.plt" w p lw 1, \
+"qval_1_42.plt" w l , "ptcl_1_42.plt" w p lw 1, \
+"qval_2_42.plt" w l , "ptcl_2_42.plt" w p lw 1, \
+"qval_3_42.plt" w l , "ptcl_3_42.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_43.plt" w l , "ptcl_0_43.plt" w p lw 1, \
+"qval_1_43.plt" w l , "ptcl_1_43.plt" w p lw 1, \
+"qval_2_43.plt" w l , "ptcl_2_43.plt" w p lw 1, \
+"qval_3_43.plt" w l , "ptcl_3_43.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_43.plt" w l , "ptcl_0_43.plt" w p lw 1, \
+"qval_1_43.plt" w l , "ptcl_1_43.plt" w p lw 1, \
+"qval_2_43.plt" w l , "ptcl_2_43.plt" w p lw 1, \
+"qval_3_43.plt" w l , "ptcl_3_43.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_43.plt" w l , "ptcl_0_43.plt" w p lw 1, \
+"qval_1_43.plt" w l , "ptcl_1_43.plt" w p lw 1, \
+"qval_2_43.plt" w l , "ptcl_2_43.plt" w p lw 1, \
+"qval_3_43.plt" w l , "ptcl_3_43.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_43.plt" w l , "ptcl_0_43.plt" w p lw 1, \
+"qval_1_43.plt" w l , "ptcl_1_43.plt" w p lw 1, \
+"qval_2_43.plt" w l , "ptcl_2_43.plt" w p lw 1, \
+"qval_3_43.plt" w l , "ptcl_3_43.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_44.plt" w l , "ptcl_0_44.plt" w p lw 1, \
+"qval_1_44.plt" w l , "ptcl_1_44.plt" w p lw 1, \
+"qval_2_44.plt" w l , "ptcl_2_44.plt" w p lw 1, \
+"qval_3_44.plt" w l , "ptcl_3_44.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_44.plt" w l , "ptcl_0_44.plt" w p lw 1, \
+"qval_1_44.plt" w l , "ptcl_1_44.plt" w p lw 1, \
+"qval_2_44.plt" w l , "ptcl_2_44.plt" w p lw 1, \
+"qval_3_44.plt" w l , "ptcl_3_44.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_44.plt" w l , "ptcl_0_44.plt" w p lw 1, \
+"qval_1_44.plt" w l , "ptcl_1_44.plt" w p lw 1, \
+"qval_2_44.plt" w l , "ptcl_2_44.plt" w p lw 1, \
+"qval_3_44.plt" w l , "ptcl_3_44.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_44.plt" w l , "ptcl_0_44.plt" w p lw 1, \
+"qval_1_44.plt" w l , "ptcl_1_44.plt" w p lw 1, \
+"qval_2_44.plt" w l , "ptcl_2_44.plt" w p lw 1, \
+"qval_3_44.plt" w l , "ptcl_3_44.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_45.plt" w l , "ptcl_0_45.plt" w p lw 1, \
+"qval_1_45.plt" w l , "ptcl_1_45.plt" w p lw 1, \
+"qval_2_45.plt" w l , "ptcl_2_45.plt" w p lw 1, \
+"qval_3_45.plt" w l , "ptcl_3_45.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_45.plt" w l , "ptcl_0_45.plt" w p lw 1, \
+"qval_1_45.plt" w l , "ptcl_1_45.plt" w p lw 1, \
+"qval_2_45.plt" w l , "ptcl_2_45.plt" w p lw 1, \
+"qval_3_45.plt" w l , "ptcl_3_45.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_45.plt" w l , "ptcl_0_45.plt" w p lw 1, \
+"qval_1_45.plt" w l , "ptcl_1_45.plt" w p lw 1, \
+"qval_2_45.plt" w l , "ptcl_2_45.plt" w p lw 1, \
+"qval_3_45.plt" w l , "ptcl_3_45.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_45.plt" w l , "ptcl_0_45.plt" w p lw 1, \
+"qval_1_45.plt" w l , "ptcl_1_45.plt" w p lw 1, \
+"qval_2_45.plt" w l , "ptcl_2_45.plt" w p lw 1, \
+"qval_3_45.plt" w l , "ptcl_3_45.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_46.plt" w l , "ptcl_0_46.plt" w p lw 1, \
+"qval_1_46.plt" w l , "ptcl_1_46.plt" w p lw 1, \
+"qval_2_46.plt" w l , "ptcl_2_46.plt" w p lw 1, \
+"qval_3_46.plt" w l , "ptcl_3_46.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_46.plt" w l , "ptcl_0_46.plt" w p lw 1, \
+"qval_1_46.plt" w l , "ptcl_1_46.plt" w p lw 1, \
+"qval_2_46.plt" w l , "ptcl_2_46.plt" w p lw 1, \
+"qval_3_46.plt" w l , "ptcl_3_46.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_46.plt" w l , "ptcl_0_46.plt" w p lw 1, \
+"qval_1_46.plt" w l , "ptcl_1_46.plt" w p lw 1, \
+"qval_2_46.plt" w l , "ptcl_2_46.plt" w p lw 1, \
+"qval_3_46.plt" w l , "ptcl_3_46.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_46.plt" w l , "ptcl_0_46.plt" w p lw 1, \
+"qval_1_46.plt" w l , "ptcl_1_46.plt" w p lw 1, \
+"qval_2_46.plt" w l , "ptcl_2_46.plt" w p lw 1, \
+"qval_3_46.plt" w l , "ptcl_3_46.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_47.plt" w l , "ptcl_0_47.plt" w p lw 1, \
+"qval_1_47.plt" w l , "ptcl_1_47.plt" w p lw 1, \
+"qval_2_47.plt" w l , "ptcl_2_47.plt" w p lw 1, \
+"qval_3_47.plt" w l , "ptcl_3_47.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_47.plt" w l , "ptcl_0_47.plt" w p lw 1, \
+"qval_1_47.plt" w l , "ptcl_1_47.plt" w p lw 1, \
+"qval_2_47.plt" w l , "ptcl_2_47.plt" w p lw 1, \
+"qval_3_47.plt" w l , "ptcl_3_47.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_47.plt" w l , "ptcl_0_47.plt" w p lw 1, \
+"qval_1_47.plt" w l , "ptcl_1_47.plt" w p lw 1, \
+"qval_2_47.plt" w l , "ptcl_2_47.plt" w p lw 1, \
+"qval_3_47.plt" w l , "ptcl_3_47.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_47.plt" w l , "ptcl_0_47.plt" w p lw 1, \
+"qval_1_47.plt" w l , "ptcl_1_47.plt" w p lw 1, \
+"qval_2_47.plt" w l , "ptcl_2_47.plt" w p lw 1, \
+"qval_3_47.plt" w l , "ptcl_3_47.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_48.plt" w l , "ptcl_0_48.plt" w p lw 1, \
+"qval_1_48.plt" w l , "ptcl_1_48.plt" w p lw 1, \
+"qval_2_48.plt" w l , "ptcl_2_48.plt" w p lw 1, \
+"qval_3_48.plt" w l , "ptcl_3_48.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_48.plt" w l , "ptcl_0_48.plt" w p lw 1, \
+"qval_1_48.plt" w l , "ptcl_1_48.plt" w p lw 1, \
+"qval_2_48.plt" w l , "ptcl_2_48.plt" w p lw 1, \
+"qval_3_48.plt" w l , "ptcl_3_48.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_48.plt" w l , "ptcl_0_48.plt" w p lw 1, \
+"qval_1_48.plt" w l , "ptcl_1_48.plt" w p lw 1, \
+"qval_2_48.plt" w l , "ptcl_2_48.plt" w p lw 1, \
+"qval_3_48.plt" w l , "ptcl_3_48.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_48.plt" w l , "ptcl_0_48.plt" w p lw 1, \
+"qval_1_48.plt" w l , "ptcl_1_48.plt" w p lw 1, \
+"qval_2_48.plt" w l , "ptcl_2_48.plt" w p lw 1, \
+"qval_3_48.plt" w l , "ptcl_3_48.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_49.plt" w l , "ptcl_0_49.plt" w p lw 1, \
+"qval_1_49.plt" w l , "ptcl_1_49.plt" w p lw 1, \
+"qval_2_49.plt" w l , "ptcl_2_49.plt" w p lw 1, \
+"qval_3_49.plt" w l , "ptcl_3_49.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_49.plt" w l , "ptcl_0_49.plt" w p lw 1, \
+"qval_1_49.plt" w l , "ptcl_1_49.plt" w p lw 1, \
+"qval_2_49.plt" w l , "ptcl_2_49.plt" w p lw 1, \
+"qval_3_49.plt" w l , "ptcl_3_49.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_49.plt" w l , "ptcl_0_49.plt" w p lw 1, \
+"qval_1_49.plt" w l , "ptcl_1_49.plt" w p lw 1, \
+"qval_2_49.plt" w l , "ptcl_2_49.plt" w p lw 1, \
+"qval_3_49.plt" w l , "ptcl_3_49.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_49.plt" w l , "ptcl_0_49.plt" w p lw 1, \
+"qval_1_49.plt" w l , "ptcl_1_49.plt" w p lw 1, \
+"qval_2_49.plt" w l , "ptcl_2_49.plt" w p lw 1, \
+"qval_3_49.plt" w l , "ptcl_3_49.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_50.plt" w l , "ptcl_0_50.plt" w p lw 1, \
+"qval_1_50.plt" w l , "ptcl_1_50.plt" w p lw 1, \
+"qval_2_50.plt" w l , "ptcl_2_50.plt" w p lw 1, \
+"qval_3_50.plt" w l , "ptcl_3_50.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_50.plt" w l , "ptcl_0_50.plt" w p lw 1, \
+"qval_1_50.plt" w l , "ptcl_1_50.plt" w p lw 1, \
+"qval_2_50.plt" w l , "ptcl_2_50.plt" w p lw 1, \
+"qval_3_50.plt" w l , "ptcl_3_50.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_50.plt" w l , "ptcl_0_50.plt" w p lw 1, \
+"qval_1_50.plt" w l , "ptcl_1_50.plt" w p lw 1, \
+"qval_2_50.plt" w l , "ptcl_2_50.plt" w p lw 1, \
+"qval_3_50.plt" w l , "ptcl_3_50.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_50.plt" w l , "ptcl_0_50.plt" w p lw 1, \
+"qval_1_50.plt" w l , "ptcl_1_50.plt" w p lw 1, \
+"qval_2_50.plt" w l , "ptcl_2_50.plt" w p lw 1, \
+"qval_3_50.plt" w l , "ptcl_3_50.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_51.plt" w l , "ptcl_0_51.plt" w p lw 1, \
+"qval_1_51.plt" w l , "ptcl_1_51.plt" w p lw 1, \
+"qval_2_51.plt" w l , "ptcl_2_51.plt" w p lw 1, \
+"qval_3_51.plt" w l , "ptcl_3_51.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_51.plt" w l , "ptcl_0_51.plt" w p lw 1, \
+"qval_1_51.plt" w l , "ptcl_1_51.plt" w p lw 1, \
+"qval_2_51.plt" w l , "ptcl_2_51.plt" w p lw 1, \
+"qval_3_51.plt" w l , "ptcl_3_51.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_51.plt" w l , "ptcl_0_51.plt" w p lw 1, \
+"qval_1_51.plt" w l , "ptcl_1_51.plt" w p lw 1, \
+"qval_2_51.plt" w l , "ptcl_2_51.plt" w p lw 1, \
+"qval_3_51.plt" w l , "ptcl_3_51.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_51.plt" w l , "ptcl_0_51.plt" w p lw 1, \
+"qval_1_51.plt" w l , "ptcl_1_51.plt" w p lw 1, \
+"qval_2_51.plt" w l , "ptcl_2_51.plt" w p lw 1, \
+"qval_3_51.plt" w l , "ptcl_3_51.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_52.plt" w l , "ptcl_0_52.plt" w p lw 1, \
+"qval_1_52.plt" w l , "ptcl_1_52.plt" w p lw 1, \
+"qval_2_52.plt" w l , "ptcl_2_52.plt" w p lw 1, \
+"qval_3_52.plt" w l , "ptcl_3_52.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_52.plt" w l , "ptcl_0_52.plt" w p lw 1, \
+"qval_1_52.plt" w l , "ptcl_1_52.plt" w p lw 1, \
+"qval_2_52.plt" w l , "ptcl_2_52.plt" w p lw 1, \
+"qval_3_52.plt" w l , "ptcl_3_52.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_52.plt" w l , "ptcl_0_52.plt" w p lw 1, \
+"qval_1_52.plt" w l , "ptcl_1_52.plt" w p lw 1, \
+"qval_2_52.plt" w l , "ptcl_2_52.plt" w p lw 1, \
+"qval_3_52.plt" w l , "ptcl_3_52.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_52.plt" w l , "ptcl_0_52.plt" w p lw 1, \
+"qval_1_52.plt" w l , "ptcl_1_52.plt" w p lw 1, \
+"qval_2_52.plt" w l , "ptcl_2_52.plt" w p lw 1, \
+"qval_3_52.plt" w l , "ptcl_3_52.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_53.plt" w l , "ptcl_0_53.plt" w p lw 1, \
+"qval_1_53.plt" w l , "ptcl_1_53.plt" w p lw 1, \
+"qval_2_53.plt" w l , "ptcl_2_53.plt" w p lw 1, \
+"qval_3_53.plt" w l , "ptcl_3_53.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_53.plt" w l , "ptcl_0_53.plt" w p lw 1, \
+"qval_1_53.plt" w l , "ptcl_1_53.plt" w p lw 1, \
+"qval_2_53.plt" w l , "ptcl_2_53.plt" w p lw 1, \
+"qval_3_53.plt" w l , "ptcl_3_53.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_53.plt" w l , "ptcl_0_53.plt" w p lw 1, \
+"qval_1_53.plt" w l , "ptcl_1_53.plt" w p lw 1, \
+"qval_2_53.plt" w l , "ptcl_2_53.plt" w p lw 1, \
+"qval_3_53.plt" w l , "ptcl_3_53.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_53.plt" w l , "ptcl_0_53.plt" w p lw 1, \
+"qval_1_53.plt" w l , "ptcl_1_53.plt" w p lw 1, \
+"qval_2_53.plt" w l , "ptcl_2_53.plt" w p lw 1, \
+"qval_3_53.plt" w l , "ptcl_3_53.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_54.plt" w l , "ptcl_0_54.plt" w p lw 1, \
+"qval_1_54.plt" w l , "ptcl_1_54.plt" w p lw 1, \
+"qval_2_54.plt" w l , "ptcl_2_54.plt" w p lw 1, \
+"qval_3_54.plt" w l , "ptcl_3_54.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_54.plt" w l , "ptcl_0_54.plt" w p lw 1, \
+"qval_1_54.plt" w l , "ptcl_1_54.plt" w p lw 1, \
+"qval_2_54.plt" w l , "ptcl_2_54.plt" w p lw 1, \
+"qval_3_54.plt" w l , "ptcl_3_54.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_54.plt" w l , "ptcl_0_54.plt" w p lw 1, \
+"qval_1_54.plt" w l , "ptcl_1_54.plt" w p lw 1, \
+"qval_2_54.plt" w l , "ptcl_2_54.plt" w p lw 1, \
+"qval_3_54.plt" w l , "ptcl_3_54.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_54.plt" w l , "ptcl_0_54.plt" w p lw 1, \
+"qval_1_54.plt" w l , "ptcl_1_54.plt" w p lw 1, \
+"qval_2_54.plt" w l , "ptcl_2_54.plt" w p lw 1, \
+"qval_3_54.plt" w l , "ptcl_3_54.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_55.plt" w l , "ptcl_0_55.plt" w p lw 1, \
+"qval_1_55.plt" w l , "ptcl_1_55.plt" w p lw 1, \
+"qval_2_55.plt" w l , "ptcl_2_55.plt" w p lw 1, \
+"qval_3_55.plt" w l , "ptcl_3_55.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_55.plt" w l , "ptcl_0_55.plt" w p lw 1, \
+"qval_1_55.plt" w l , "ptcl_1_55.plt" w p lw 1, \
+"qval_2_55.plt" w l , "ptcl_2_55.plt" w p lw 1, \
+"qval_3_55.plt" w l , "ptcl_3_55.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_55.plt" w l , "ptcl_0_55.plt" w p lw 1, \
+"qval_1_55.plt" w l , "ptcl_1_55.plt" w p lw 1, \
+"qval_2_55.plt" w l , "ptcl_2_55.plt" w p lw 1, \
+"qval_3_55.plt" w l , "ptcl_3_55.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_55.plt" w l , "ptcl_0_55.plt" w p lw 1, \
+"qval_1_55.plt" w l , "ptcl_1_55.plt" w p lw 1, \
+"qval_2_55.plt" w l , "ptcl_2_55.plt" w p lw 1, \
+"qval_3_55.plt" w l , "ptcl_3_55.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_56.plt" w l , "ptcl_0_56.plt" w p lw 1, \
+"qval_1_56.plt" w l , "ptcl_1_56.plt" w p lw 1, \
+"qval_2_56.plt" w l , "ptcl_2_56.plt" w p lw 1, \
+"qval_3_56.plt" w l , "ptcl_3_56.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_56.plt" w l , "ptcl_0_56.plt" w p lw 1, \
+"qval_1_56.plt" w l , "ptcl_1_56.plt" w p lw 1, \
+"qval_2_56.plt" w l , "ptcl_2_56.plt" w p lw 1, \
+"qval_3_56.plt" w l , "ptcl_3_56.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_56.plt" w l , "ptcl_0_56.plt" w p lw 1, \
+"qval_1_56.plt" w l , "ptcl_1_56.plt" w p lw 1, \
+"qval_2_56.plt" w l , "ptcl_2_56.plt" w p lw 1, \
+"qval_3_56.plt" w l , "ptcl_3_56.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_56.plt" w l , "ptcl_0_56.plt" w p lw 1, \
+"qval_1_56.plt" w l , "ptcl_1_56.plt" w p lw 1, \
+"qval_2_56.plt" w l , "ptcl_2_56.plt" w p lw 1, \
+"qval_3_56.plt" w l , "ptcl_3_56.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_57.plt" w l , "ptcl_0_57.plt" w p lw 1, \
+"qval_1_57.plt" w l , "ptcl_1_57.plt" w p lw 1, \
+"qval_2_57.plt" w l , "ptcl_2_57.plt" w p lw 1, \
+"qval_3_57.plt" w l , "ptcl_3_57.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_57.plt" w l , "ptcl_0_57.plt" w p lw 1, \
+"qval_1_57.plt" w l , "ptcl_1_57.plt" w p lw 1, \
+"qval_2_57.plt" w l , "ptcl_2_57.plt" w p lw 1, \
+"qval_3_57.plt" w l , "ptcl_3_57.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_57.plt" w l , "ptcl_0_57.plt" w p lw 1, \
+"qval_1_57.plt" w l , "ptcl_1_57.plt" w p lw 1, \
+"qval_2_57.plt" w l , "ptcl_2_57.plt" w p lw 1, \
+"qval_3_57.plt" w l , "ptcl_3_57.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_57.plt" w l , "ptcl_0_57.plt" w p lw 1, \
+"qval_1_57.plt" w l , "ptcl_1_57.plt" w p lw 1, \
+"qval_2_57.plt" w l , "ptcl_2_57.plt" w p lw 1, \
+"qval_3_57.plt" w l , "ptcl_3_57.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_58.plt" w l , "ptcl_0_58.plt" w p lw 1, \
+"qval_1_58.plt" w l , "ptcl_1_58.plt" w p lw 1, \
+"qval_2_58.plt" w l , "ptcl_2_58.plt" w p lw 1, \
+"qval_3_58.plt" w l , "ptcl_3_58.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_58.plt" w l , "ptcl_0_58.plt" w p lw 1, \
+"qval_1_58.plt" w l , "ptcl_1_58.plt" w p lw 1, \
+"qval_2_58.plt" w l , "ptcl_2_58.plt" w p lw 1, \
+"qval_3_58.plt" w l , "ptcl_3_58.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_58.plt" w l , "ptcl_0_58.plt" w p lw 1, \
+"qval_1_58.plt" w l , "ptcl_1_58.plt" w p lw 1, \
+"qval_2_58.plt" w l , "ptcl_2_58.plt" w p lw 1, \
+"qval_3_58.plt" w l , "ptcl_3_58.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_58.plt" w l , "ptcl_0_58.plt" w p lw 1, \
+"qval_1_58.plt" w l , "ptcl_1_58.plt" w p lw 1, \
+"qval_2_58.plt" w l , "ptcl_2_58.plt" w p lw 1, \
+"qval_3_58.plt" w l , "ptcl_3_58.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_59.plt" w l , "ptcl_0_59.plt" w p lw 1, \
+"qval_1_59.plt" w l , "ptcl_1_59.plt" w p lw 1, \
+"qval_2_59.plt" w l , "ptcl_2_59.plt" w p lw 1, \
+"qval_3_59.plt" w l , "ptcl_3_59.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_59.plt" w l , "ptcl_0_59.plt" w p lw 1, \
+"qval_1_59.plt" w l , "ptcl_1_59.plt" w p lw 1, \
+"qval_2_59.plt" w l , "ptcl_2_59.plt" w p lw 1, \
+"qval_3_59.plt" w l , "ptcl_3_59.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_59.plt" w l , "ptcl_0_59.plt" w p lw 1, \
+"qval_1_59.plt" w l , "ptcl_1_59.plt" w p lw 1, \
+"qval_2_59.plt" w l , "ptcl_2_59.plt" w p lw 1, \
+"qval_3_59.plt" w l , "ptcl_3_59.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_59.plt" w l , "ptcl_0_59.plt" w p lw 1, \
+"qval_1_59.plt" w l , "ptcl_1_59.plt" w p lw 1, \
+"qval_2_59.plt" w l , "ptcl_2_59.plt" w p lw 1, \
+"qval_3_59.plt" w l , "ptcl_3_59.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_60.plt" w l , "ptcl_0_60.plt" w p lw 1, \
+"qval_1_60.plt" w l , "ptcl_1_60.plt" w p lw 1, \
+"qval_2_60.plt" w l , "ptcl_2_60.plt" w p lw 1, \
+"qval_3_60.plt" w l , "ptcl_3_60.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_60.plt" w l , "ptcl_0_60.plt" w p lw 1, \
+"qval_1_60.plt" w l , "ptcl_1_60.plt" w p lw 1, \
+"qval_2_60.plt" w l , "ptcl_2_60.plt" w p lw 1, \
+"qval_3_60.plt" w l , "ptcl_3_60.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_60.plt" w l , "ptcl_0_60.plt" w p lw 1, \
+"qval_1_60.plt" w l , "ptcl_1_60.plt" w p lw 1, \
+"qval_2_60.plt" w l , "ptcl_2_60.plt" w p lw 1, \
+"qval_3_60.plt" w l , "ptcl_3_60.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_60.plt" w l , "ptcl_0_60.plt" w p lw 1, \
+"qval_1_60.plt" w l , "ptcl_1_60.plt" w p lw 1, \
+"qval_2_60.plt" w l , "ptcl_2_60.plt" w p lw 1, \
+"qval_3_60.plt" w l , "ptcl_3_60.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_61.plt" w l , "ptcl_0_61.plt" w p lw 1, \
+"qval_1_61.plt" w l , "ptcl_1_61.plt" w p lw 1, \
+"qval_2_61.plt" w l , "ptcl_2_61.plt" w p lw 1, \
+"qval_3_61.plt" w l , "ptcl_3_61.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_61.plt" w l , "ptcl_0_61.plt" w p lw 1, \
+"qval_1_61.plt" w l , "ptcl_1_61.plt" w p lw 1, \
+"qval_2_61.plt" w l , "ptcl_2_61.plt" w p lw 1, \
+"qval_3_61.plt" w l , "ptcl_3_61.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_61.plt" w l , "ptcl_0_61.plt" w p lw 1, \
+"qval_1_61.plt" w l , "ptcl_1_61.plt" w p lw 1, \
+"qval_2_61.plt" w l , "ptcl_2_61.plt" w p lw 1, \
+"qval_3_61.plt" w l , "ptcl_3_61.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_61.plt" w l , "ptcl_0_61.plt" w p lw 1, \
+"qval_1_61.plt" w l , "ptcl_1_61.plt" w p lw 1, \
+"qval_2_61.plt" w l , "ptcl_2_61.plt" w p lw 1, \
+"qval_3_61.plt" w l , "ptcl_3_61.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_62.plt" w l , "ptcl_0_62.plt" w p lw 1, \
+"qval_1_62.plt" w l , "ptcl_1_62.plt" w p lw 1, \
+"qval_2_62.plt" w l , "ptcl_2_62.plt" w p lw 1, \
+"qval_3_62.plt" w l , "ptcl_3_62.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_62.plt" w l , "ptcl_0_62.plt" w p lw 1, \
+"qval_1_62.plt" w l , "ptcl_1_62.plt" w p lw 1, \
+"qval_2_62.plt" w l , "ptcl_2_62.plt" w p lw 1, \
+"qval_3_62.plt" w l , "ptcl_3_62.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_62.plt" w l , "ptcl_0_62.plt" w p lw 1, \
+"qval_1_62.plt" w l , "ptcl_1_62.plt" w p lw 1, \
+"qval_2_62.plt" w l , "ptcl_2_62.plt" w p lw 1, \
+"qval_3_62.plt" w l , "ptcl_3_62.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_62.plt" w l , "ptcl_0_62.plt" w p lw 1, \
+"qval_1_62.plt" w l , "ptcl_1_62.plt" w p lw 1, \
+"qval_2_62.plt" w l , "ptcl_2_62.plt" w p lw 1, \
+"qval_3_62.plt" w l , "ptcl_3_62.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_63.plt" w l , "ptcl_0_63.plt" w p lw 1, \
+"qval_1_63.plt" w l , "ptcl_1_63.plt" w p lw 1, \
+"qval_2_63.plt" w l , "ptcl_2_63.plt" w p lw 1, \
+"qval_3_63.plt" w l , "ptcl_3_63.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_63.plt" w l , "ptcl_0_63.plt" w p lw 1, \
+"qval_1_63.plt" w l , "ptcl_1_63.plt" w p lw 1, \
+"qval_2_63.plt" w l , "ptcl_2_63.plt" w p lw 1, \
+"qval_3_63.plt" w l , "ptcl_3_63.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_63.plt" w l , "ptcl_0_63.plt" w p lw 1, \
+"qval_1_63.plt" w l , "ptcl_1_63.plt" w p lw 1, \
+"qval_2_63.plt" w l , "ptcl_2_63.plt" w p lw 1, \
+"qval_3_63.plt" w l , "ptcl_3_63.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_63.plt" w l , "ptcl_0_63.plt" w p lw 1, \
+"qval_1_63.plt" w l , "ptcl_1_63.plt" w p lw 1, \
+"qval_2_63.plt" w l , "ptcl_2_63.plt" w p lw 1, \
+"qval_3_63.plt" w l , "ptcl_3_63.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_64.plt" w l , "ptcl_0_64.plt" w p lw 1, \
+"qval_1_64.plt" w l , "ptcl_1_64.plt" w p lw 1, \
+"qval_2_64.plt" w l , "ptcl_2_64.plt" w p lw 1, \
+"qval_3_64.plt" w l , "ptcl_3_64.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_64.plt" w l , "ptcl_0_64.plt" w p lw 1, \
+"qval_1_64.plt" w l , "ptcl_1_64.plt" w p lw 1, \
+"qval_2_64.plt" w l , "ptcl_2_64.plt" w p lw 1, \
+"qval_3_64.plt" w l , "ptcl_3_64.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_64.plt" w l , "ptcl_0_64.plt" w p lw 1, \
+"qval_1_64.plt" w l , "ptcl_1_64.plt" w p lw 1, \
+"qval_2_64.plt" w l , "ptcl_2_64.plt" w p lw 1, \
+"qval_3_64.plt" w l , "ptcl_3_64.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_64.plt" w l , "ptcl_0_64.plt" w p lw 1, \
+"qval_1_64.plt" w l , "ptcl_1_64.plt" w p lw 1, \
+"qval_2_64.plt" w l , "ptcl_2_64.plt" w p lw 1, \
+"qval_3_64.plt" w l , "ptcl_3_64.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_65.plt" w l , "ptcl_0_65.plt" w p lw 1, \
+"qval_1_65.plt" w l , "ptcl_1_65.plt" w p lw 1, \
+"qval_2_65.plt" w l , "ptcl_2_65.plt" w p lw 1, \
+"qval_3_65.plt" w l , "ptcl_3_65.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_65.plt" w l , "ptcl_0_65.plt" w p lw 1, \
+"qval_1_65.plt" w l , "ptcl_1_65.plt" w p lw 1, \
+"qval_2_65.plt" w l , "ptcl_2_65.plt" w p lw 1, \
+"qval_3_65.plt" w l , "ptcl_3_65.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_65.plt" w l , "ptcl_0_65.plt" w p lw 1, \
+"qval_1_65.plt" w l , "ptcl_1_65.plt" w p lw 1, \
+"qval_2_65.plt" w l , "ptcl_2_65.plt" w p lw 1, \
+"qval_3_65.plt" w l , "ptcl_3_65.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_65.plt" w l , "ptcl_0_65.plt" w p lw 1, \
+"qval_1_65.plt" w l , "ptcl_1_65.plt" w p lw 1, \
+"qval_2_65.plt" w l , "ptcl_2_65.plt" w p lw 1, \
+"qval_3_65.plt" w l , "ptcl_3_65.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_66.plt" w l , "ptcl_0_66.plt" w p lw 1, \
+"qval_1_66.plt" w l , "ptcl_1_66.plt" w p lw 1, \
+"qval_2_66.plt" w l , "ptcl_2_66.plt" w p lw 1, \
+"qval_3_66.plt" w l , "ptcl_3_66.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_66.plt" w l , "ptcl_0_66.plt" w p lw 1, \
+"qval_1_66.plt" w l , "ptcl_1_66.plt" w p lw 1, \
+"qval_2_66.plt" w l , "ptcl_2_66.plt" w p lw 1, \
+"qval_3_66.plt" w l , "ptcl_3_66.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_66.plt" w l , "ptcl_0_66.plt" w p lw 1, \
+"qval_1_66.plt" w l , "ptcl_1_66.plt" w p lw 1, \
+"qval_2_66.plt" w l , "ptcl_2_66.plt" w p lw 1, \
+"qval_3_66.plt" w l , "ptcl_3_66.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_66.plt" w l , "ptcl_0_66.plt" w p lw 1, \
+"qval_1_66.plt" w l , "ptcl_1_66.plt" w p lw 1, \
+"qval_2_66.plt" w l , "ptcl_2_66.plt" w p lw 1, \
+"qval_3_66.plt" w l , "ptcl_3_66.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_67.plt" w l , "ptcl_0_67.plt" w p lw 1, \
+"qval_1_67.plt" w l , "ptcl_1_67.plt" w p lw 1, \
+"qval_2_67.plt" w l , "ptcl_2_67.plt" w p lw 1, \
+"qval_3_67.plt" w l , "ptcl_3_67.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_67.plt" w l , "ptcl_0_67.plt" w p lw 1, \
+"qval_1_67.plt" w l , "ptcl_1_67.plt" w p lw 1, \
+"qval_2_67.plt" w l , "ptcl_2_67.plt" w p lw 1, \
+"qval_3_67.plt" w l , "ptcl_3_67.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_67.plt" w l , "ptcl_0_67.plt" w p lw 1, \
+"qval_1_67.plt" w l , "ptcl_1_67.plt" w p lw 1, \
+"qval_2_67.plt" w l , "ptcl_2_67.plt" w p lw 1, \
+"qval_3_67.plt" w l , "ptcl_3_67.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_67.plt" w l , "ptcl_0_67.plt" w p lw 1, \
+"qval_1_67.plt" w l , "ptcl_1_67.plt" w p lw 1, \
+"qval_2_67.plt" w l , "ptcl_2_67.plt" w p lw 1, \
+"qval_3_67.plt" w l , "ptcl_3_67.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_68.plt" w l , "ptcl_0_68.plt" w p lw 1, \
+"qval_1_68.plt" w l , "ptcl_1_68.plt" w p lw 1, \
+"qval_2_68.plt" w l , "ptcl_2_68.plt" w p lw 1, \
+"qval_3_68.plt" w l , "ptcl_3_68.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_68.plt" w l , "ptcl_0_68.plt" w p lw 1, \
+"qval_1_68.plt" w l , "ptcl_1_68.plt" w p lw 1, \
+"qval_2_68.plt" w l , "ptcl_2_68.plt" w p lw 1, \
+"qval_3_68.plt" w l , "ptcl_3_68.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_68.plt" w l , "ptcl_0_68.plt" w p lw 1, \
+"qval_1_68.plt" w l , "ptcl_1_68.plt" w p lw 1, \
+"qval_2_68.plt" w l , "ptcl_2_68.plt" w p lw 1, \
+"qval_3_68.plt" w l , "ptcl_3_68.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_68.plt" w l , "ptcl_0_68.plt" w p lw 1, \
+"qval_1_68.plt" w l , "ptcl_1_68.plt" w p lw 1, \
+"qval_2_68.plt" w l , "ptcl_2_68.plt" w p lw 1, \
+"qval_3_68.plt" w l , "ptcl_3_68.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_69.plt" w l , "ptcl_0_69.plt" w p lw 1, \
+"qval_1_69.plt" w l , "ptcl_1_69.plt" w p lw 1, \
+"qval_2_69.plt" w l , "ptcl_2_69.plt" w p lw 1, \
+"qval_3_69.plt" w l , "ptcl_3_69.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_69.plt" w l , "ptcl_0_69.plt" w p lw 1, \
+"qval_1_69.plt" w l , "ptcl_1_69.plt" w p lw 1, \
+"qval_2_69.plt" w l , "ptcl_2_69.plt" w p lw 1, \
+"qval_3_69.plt" w l , "ptcl_3_69.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_69.plt" w l , "ptcl_0_69.plt" w p lw 1, \
+"qval_1_69.plt" w l , "ptcl_1_69.plt" w p lw 1, \
+"qval_2_69.plt" w l , "ptcl_2_69.plt" w p lw 1, \
+"qval_3_69.plt" w l , "ptcl_3_69.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_69.plt" w l , "ptcl_0_69.plt" w p lw 1, \
+"qval_1_69.plt" w l , "ptcl_1_69.plt" w p lw 1, \
+"qval_2_69.plt" w l , "ptcl_2_69.plt" w p lw 1, \
+"qval_3_69.plt" w l , "ptcl_3_69.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_70.plt" w l , "ptcl_0_70.plt" w p lw 1, \
+"qval_1_70.plt" w l , "ptcl_1_70.plt" w p lw 1, \
+"qval_2_70.plt" w l , "ptcl_2_70.plt" w p lw 1, \
+"qval_3_70.plt" w l , "ptcl_3_70.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_70.plt" w l , "ptcl_0_70.plt" w p lw 1, \
+"qval_1_70.plt" w l , "ptcl_1_70.plt" w p lw 1, \
+"qval_2_70.plt" w l , "ptcl_2_70.plt" w p lw 1, \
+"qval_3_70.plt" w l , "ptcl_3_70.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_70.plt" w l , "ptcl_0_70.plt" w p lw 1, \
+"qval_1_70.plt" w l , "ptcl_1_70.plt" w p lw 1, \
+"qval_2_70.plt" w l , "ptcl_2_70.plt" w p lw 1, \
+"qval_3_70.plt" w l , "ptcl_3_70.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_70.plt" w l , "ptcl_0_70.plt" w p lw 1, \
+"qval_1_70.plt" w l , "ptcl_1_70.plt" w p lw 1, \
+"qval_2_70.plt" w l , "ptcl_2_70.plt" w p lw 1, \
+"qval_3_70.plt" w l , "ptcl_3_70.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_71.plt" w l , "ptcl_0_71.plt" w p lw 1, \
+"qval_1_71.plt" w l , "ptcl_1_71.plt" w p lw 1, \
+"qval_2_71.plt" w l , "ptcl_2_71.plt" w p lw 1, \
+"qval_3_71.plt" w l , "ptcl_3_71.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_71.plt" w l , "ptcl_0_71.plt" w p lw 1, \
+"qval_1_71.plt" w l , "ptcl_1_71.plt" w p lw 1, \
+"qval_2_71.plt" w l , "ptcl_2_71.plt" w p lw 1, \
+"qval_3_71.plt" w l , "ptcl_3_71.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_71.plt" w l , "ptcl_0_71.plt" w p lw 1, \
+"qval_1_71.plt" w l , "ptcl_1_71.plt" w p lw 1, \
+"qval_2_71.plt" w l , "ptcl_2_71.plt" w p lw 1, \
+"qval_3_71.plt" w l , "ptcl_3_71.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_71.plt" w l , "ptcl_0_71.plt" w p lw 1, \
+"qval_1_71.plt" w l , "ptcl_1_71.plt" w p lw 1, \
+"qval_2_71.plt" w l , "ptcl_2_71.plt" w p lw 1, \
+"qval_3_71.plt" w l , "ptcl_3_71.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_72.plt" w l , "ptcl_0_72.plt" w p lw 1, \
+"qval_1_72.plt" w l , "ptcl_1_72.plt" w p lw 1, \
+"qval_2_72.plt" w l , "ptcl_2_72.plt" w p lw 1, \
+"qval_3_72.plt" w l , "ptcl_3_72.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_72.plt" w l , "ptcl_0_72.plt" w p lw 1, \
+"qval_1_72.plt" w l , "ptcl_1_72.plt" w p lw 1, \
+"qval_2_72.plt" w l , "ptcl_2_72.plt" w p lw 1, \
+"qval_3_72.plt" w l , "ptcl_3_72.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_72.plt" w l , "ptcl_0_72.plt" w p lw 1, \
+"qval_1_72.plt" w l , "ptcl_1_72.plt" w p lw 1, \
+"qval_2_72.plt" w l , "ptcl_2_72.plt" w p lw 1, \
+"qval_3_72.plt" w l , "ptcl_3_72.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_72.plt" w l , "ptcl_0_72.plt" w p lw 1, \
+"qval_1_72.plt" w l , "ptcl_1_72.plt" w p lw 1, \
+"qval_2_72.plt" w l , "ptcl_2_72.plt" w p lw 1, \
+"qval_3_72.plt" w l , "ptcl_3_72.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_73.plt" w l , "ptcl_0_73.plt" w p lw 1, \
+"qval_1_73.plt" w l , "ptcl_1_73.plt" w p lw 1, \
+"qval_2_73.plt" w l , "ptcl_2_73.plt" w p lw 1, \
+"qval_3_73.plt" w l , "ptcl_3_73.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_73.plt" w l , "ptcl_0_73.plt" w p lw 1, \
+"qval_1_73.plt" w l , "ptcl_1_73.plt" w p lw 1, \
+"qval_2_73.plt" w l , "ptcl_2_73.plt" w p lw 1, \
+"qval_3_73.plt" w l , "ptcl_3_73.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_73.plt" w l , "ptcl_0_73.plt" w p lw 1, \
+"qval_1_73.plt" w l , "ptcl_1_73.plt" w p lw 1, \
+"qval_2_73.plt" w l , "ptcl_2_73.plt" w p lw 1, \
+"qval_3_73.plt" w l , "ptcl_3_73.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_73.plt" w l , "ptcl_0_73.plt" w p lw 1, \
+"qval_1_73.plt" w l , "ptcl_1_73.plt" w p lw 1, \
+"qval_2_73.plt" w l , "ptcl_2_73.plt" w p lw 1, \
+"qval_3_73.plt" w l , "ptcl_3_73.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_74.plt" w l , "ptcl_0_74.plt" w p lw 1, \
+"qval_1_74.plt" w l , "ptcl_1_74.plt" w p lw 1, \
+"qval_2_74.plt" w l , "ptcl_2_74.plt" w p lw 1, \
+"qval_3_74.plt" w l , "ptcl_3_74.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_74.plt" w l , "ptcl_0_74.plt" w p lw 1, \
+"qval_1_74.plt" w l , "ptcl_1_74.plt" w p lw 1, \
+"qval_2_74.plt" w l , "ptcl_2_74.plt" w p lw 1, \
+"qval_3_74.plt" w l , "ptcl_3_74.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_74.plt" w l , "ptcl_0_74.plt" w p lw 1, \
+"qval_1_74.plt" w l , "ptcl_1_74.plt" w p lw 1, \
+"qval_2_74.plt" w l , "ptcl_2_74.plt" w p lw 1, \
+"qval_3_74.plt" w l , "ptcl_3_74.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_74.plt" w l , "ptcl_0_74.plt" w p lw 1, \
+"qval_1_74.plt" w l , "ptcl_1_74.plt" w p lw 1, \
+"qval_2_74.plt" w l , "ptcl_2_74.plt" w p lw 1, \
+"qval_3_74.plt" w l , "ptcl_3_74.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_75.plt" w l , "ptcl_0_75.plt" w p lw 1, \
+"qval_1_75.plt" w l , "ptcl_1_75.plt" w p lw 1, \
+"qval_2_75.plt" w l , "ptcl_2_75.plt" w p lw 1, \
+"qval_3_75.plt" w l , "ptcl_3_75.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_75.plt" w l , "ptcl_0_75.plt" w p lw 1, \
+"qval_1_75.plt" w l , "ptcl_1_75.plt" w p lw 1, \
+"qval_2_75.plt" w l , "ptcl_2_75.plt" w p lw 1, \
+"qval_3_75.plt" w l , "ptcl_3_75.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_75.plt" w l , "ptcl_0_75.plt" w p lw 1, \
+"qval_1_75.plt" w l , "ptcl_1_75.plt" w p lw 1, \
+"qval_2_75.plt" w l , "ptcl_2_75.plt" w p lw 1, \
+"qval_3_75.plt" w l , "ptcl_3_75.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_75.plt" w l , "ptcl_0_75.plt" w p lw 1, \
+"qval_1_75.plt" w l , "ptcl_1_75.plt" w p lw 1, \
+"qval_2_75.plt" w l , "ptcl_2_75.plt" w p lw 1, \
+"qval_3_75.plt" w l , "ptcl_3_75.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_76.plt" w l , "ptcl_0_76.plt" w p lw 1, \
+"qval_1_76.plt" w l , "ptcl_1_76.plt" w p lw 1, \
+"qval_2_76.plt" w l , "ptcl_2_76.plt" w p lw 1, \
+"qval_3_76.plt" w l , "ptcl_3_76.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_76.plt" w l , "ptcl_0_76.plt" w p lw 1, \
+"qval_1_76.plt" w l , "ptcl_1_76.plt" w p lw 1, \
+"qval_2_76.plt" w l , "ptcl_2_76.plt" w p lw 1, \
+"qval_3_76.plt" w l , "ptcl_3_76.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_76.plt" w l , "ptcl_0_76.plt" w p lw 1, \
+"qval_1_76.plt" w l , "ptcl_1_76.plt" w p lw 1, \
+"qval_2_76.plt" w l , "ptcl_2_76.plt" w p lw 1, \
+"qval_3_76.plt" w l , "ptcl_3_76.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_76.plt" w l , "ptcl_0_76.plt" w p lw 1, \
+"qval_1_76.plt" w l , "ptcl_1_76.plt" w p lw 1, \
+"qval_2_76.plt" w l , "ptcl_2_76.plt" w p lw 1, \
+"qval_3_76.plt" w l , "ptcl_3_76.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_77.plt" w l , "ptcl_0_77.plt" w p lw 1, \
+"qval_1_77.plt" w l , "ptcl_1_77.plt" w p lw 1, \
+"qval_2_77.plt" w l , "ptcl_2_77.plt" w p lw 1, \
+"qval_3_77.plt" w l , "ptcl_3_77.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_77.plt" w l , "ptcl_0_77.plt" w p lw 1, \
+"qval_1_77.plt" w l , "ptcl_1_77.plt" w p lw 1, \
+"qval_2_77.plt" w l , "ptcl_2_77.plt" w p lw 1, \
+"qval_3_77.plt" w l , "ptcl_3_77.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_77.plt" w l , "ptcl_0_77.plt" w p lw 1, \
+"qval_1_77.plt" w l , "ptcl_1_77.plt" w p lw 1, \
+"qval_2_77.plt" w l , "ptcl_2_77.plt" w p lw 1, \
+"qval_3_77.plt" w l , "ptcl_3_77.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_77.plt" w l , "ptcl_0_77.plt" w p lw 1, \
+"qval_1_77.plt" w l , "ptcl_1_77.plt" w p lw 1, \
+"qval_2_77.plt" w l , "ptcl_2_77.plt" w p lw 1, \
+"qval_3_77.plt" w l , "ptcl_3_77.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_78.plt" w l , "ptcl_0_78.plt" w p lw 1, \
+"qval_1_78.plt" w l , "ptcl_1_78.plt" w p lw 1, \
+"qval_2_78.plt" w l , "ptcl_2_78.plt" w p lw 1, \
+"qval_3_78.plt" w l , "ptcl_3_78.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_78.plt" w l , "ptcl_0_78.plt" w p lw 1, \
+"qval_1_78.plt" w l , "ptcl_1_78.plt" w p lw 1, \
+"qval_2_78.plt" w l , "ptcl_2_78.plt" w p lw 1, \
+"qval_3_78.plt" w l , "ptcl_3_78.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_78.plt" w l , "ptcl_0_78.plt" w p lw 1, \
+"qval_1_78.plt" w l , "ptcl_1_78.plt" w p lw 1, \
+"qval_2_78.plt" w l , "ptcl_2_78.plt" w p lw 1, \
+"qval_3_78.plt" w l , "ptcl_3_78.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_78.plt" w l , "ptcl_0_78.plt" w p lw 1, \
+"qval_1_78.plt" w l , "ptcl_1_78.plt" w p lw 1, \
+"qval_2_78.plt" w l , "ptcl_2_78.plt" w p lw 1, \
+"qval_3_78.plt" w l , "ptcl_3_78.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_79.plt" w l , "ptcl_0_79.plt" w p lw 1, \
+"qval_1_79.plt" w l , "ptcl_1_79.plt" w p lw 1, \
+"qval_2_79.plt" w l , "ptcl_2_79.plt" w p lw 1, \
+"qval_3_79.plt" w l , "ptcl_3_79.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_79.plt" w l , "ptcl_0_79.plt" w p lw 1, \
+"qval_1_79.plt" w l , "ptcl_1_79.plt" w p lw 1, \
+"qval_2_79.plt" w l , "ptcl_2_79.plt" w p lw 1, \
+"qval_3_79.plt" w l , "ptcl_3_79.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_79.plt" w l , "ptcl_0_79.plt" w p lw 1, \
+"qval_1_79.plt" w l , "ptcl_1_79.plt" w p lw 1, \
+"qval_2_79.plt" w l , "ptcl_2_79.plt" w p lw 1, \
+"qval_3_79.plt" w l , "ptcl_3_79.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_79.plt" w l , "ptcl_0_79.plt" w p lw 1, \
+"qval_1_79.plt" w l , "ptcl_1_79.plt" w p lw 1, \
+"qval_2_79.plt" w l , "ptcl_2_79.plt" w p lw 1, \
+"qval_3_79.plt" w l , "ptcl_3_79.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_80.plt" w l , "ptcl_0_80.plt" w p lw 1, \
+"qval_1_80.plt" w l , "ptcl_1_80.plt" w p lw 1, \
+"qval_2_80.plt" w l , "ptcl_2_80.plt" w p lw 1, \
+"qval_3_80.plt" w l , "ptcl_3_80.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_80.plt" w l , "ptcl_0_80.plt" w p lw 1, \
+"qval_1_80.plt" w l , "ptcl_1_80.plt" w p lw 1, \
+"qval_2_80.plt" w l , "ptcl_2_80.plt" w p lw 1, \
+"qval_3_80.plt" w l , "ptcl_3_80.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_80.plt" w l , "ptcl_0_80.plt" w p lw 1, \
+"qval_1_80.plt" w l , "ptcl_1_80.plt" w p lw 1, \
+"qval_2_80.plt" w l , "ptcl_2_80.plt" w p lw 1, \
+"qval_3_80.plt" w l , "ptcl_3_80.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_80.plt" w l , "ptcl_0_80.plt" w p lw 1, \
+"qval_1_80.plt" w l , "ptcl_1_80.plt" w p lw 1, \
+"qval_2_80.plt" w l , "ptcl_2_80.plt" w p lw 1, \
+"qval_3_80.plt" w l , "ptcl_3_80.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_81.plt" w l , "ptcl_0_81.plt" w p lw 1, \
+"qval_1_81.plt" w l , "ptcl_1_81.plt" w p lw 1, \
+"qval_2_81.plt" w l , "ptcl_2_81.plt" w p lw 1, \
+"qval_3_81.plt" w l , "ptcl_3_81.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_81.plt" w l , "ptcl_0_81.plt" w p lw 1, \
+"qval_1_81.plt" w l , "ptcl_1_81.plt" w p lw 1, \
+"qval_2_81.plt" w l , "ptcl_2_81.plt" w p lw 1, \
+"qval_3_81.plt" w l , "ptcl_3_81.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_81.plt" w l , "ptcl_0_81.plt" w p lw 1, \
+"qval_1_81.plt" w l , "ptcl_1_81.plt" w p lw 1, \
+"qval_2_81.plt" w l , "ptcl_2_81.plt" w p lw 1, \
+"qval_3_81.plt" w l , "ptcl_3_81.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_81.plt" w l , "ptcl_0_81.plt" w p lw 1, \
+"qval_1_81.plt" w l , "ptcl_1_81.plt" w p lw 1, \
+"qval_2_81.plt" w l , "ptcl_2_81.plt" w p lw 1, \
+"qval_3_81.plt" w l , "ptcl_3_81.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_82.plt" w l , "ptcl_0_82.plt" w p lw 1, \
+"qval_1_82.plt" w l , "ptcl_1_82.plt" w p lw 1, \
+"qval_2_82.plt" w l , "ptcl_2_82.plt" w p lw 1, \
+"qval_3_82.plt" w l , "ptcl_3_82.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_82.plt" w l , "ptcl_0_82.plt" w p lw 1, \
+"qval_1_82.plt" w l , "ptcl_1_82.plt" w p lw 1, \
+"qval_2_82.plt" w l , "ptcl_2_82.plt" w p lw 1, \
+"qval_3_82.plt" w l , "ptcl_3_82.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_82.plt" w l , "ptcl_0_82.plt" w p lw 1, \
+"qval_1_82.plt" w l , "ptcl_1_82.plt" w p lw 1, \
+"qval_2_82.plt" w l , "ptcl_2_82.plt" w p lw 1, \
+"qval_3_82.plt" w l , "ptcl_3_82.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_82.plt" w l , "ptcl_0_82.plt" w p lw 1, \
+"qval_1_82.plt" w l , "ptcl_1_82.plt" w p lw 1, \
+"qval_2_82.plt" w l , "ptcl_2_82.plt" w p lw 1, \
+"qval_3_82.plt" w l , "ptcl_3_82.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_83.plt" w l , "ptcl_0_83.plt" w p lw 1, \
+"qval_1_83.plt" w l , "ptcl_1_83.plt" w p lw 1, \
+"qval_2_83.plt" w l , "ptcl_2_83.plt" w p lw 1, \
+"qval_3_83.plt" w l , "ptcl_3_83.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_83.plt" w l , "ptcl_0_83.plt" w p lw 1, \
+"qval_1_83.plt" w l , "ptcl_1_83.plt" w p lw 1, \
+"qval_2_83.plt" w l , "ptcl_2_83.plt" w p lw 1, \
+"qval_3_83.plt" w l , "ptcl_3_83.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_83.plt" w l , "ptcl_0_83.plt" w p lw 1, \
+"qval_1_83.plt" w l , "ptcl_1_83.plt" w p lw 1, \
+"qval_2_83.plt" w l , "ptcl_2_83.plt" w p lw 1, \
+"qval_3_83.plt" w l , "ptcl_3_83.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_83.plt" w l , "ptcl_0_83.plt" w p lw 1, \
+"qval_1_83.plt" w l , "ptcl_1_83.plt" w p lw 1, \
+"qval_2_83.plt" w l , "ptcl_2_83.plt" w p lw 1, \
+"qval_3_83.plt" w l , "ptcl_3_83.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_84.plt" w l , "ptcl_0_84.plt" w p lw 1, \
+"qval_1_84.plt" w l , "ptcl_1_84.plt" w p lw 1, \
+"qval_2_84.plt" w l , "ptcl_2_84.plt" w p lw 1, \
+"qval_3_84.plt" w l , "ptcl_3_84.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_84.plt" w l , "ptcl_0_84.plt" w p lw 1, \
+"qval_1_84.plt" w l , "ptcl_1_84.plt" w p lw 1, \
+"qval_2_84.plt" w l , "ptcl_2_84.plt" w p lw 1, \
+"qval_3_84.plt" w l , "ptcl_3_84.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_84.plt" w l , "ptcl_0_84.plt" w p lw 1, \
+"qval_1_84.plt" w l , "ptcl_1_84.plt" w p lw 1, \
+"qval_2_84.plt" w l , "ptcl_2_84.plt" w p lw 1, \
+"qval_3_84.plt" w l , "ptcl_3_84.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_84.plt" w l , "ptcl_0_84.plt" w p lw 1, \
+"qval_1_84.plt" w l , "ptcl_1_84.plt" w p lw 1, \
+"qval_2_84.plt" w l , "ptcl_2_84.plt" w p lw 1, \
+"qval_3_84.plt" w l , "ptcl_3_84.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_85.plt" w l , "ptcl_0_85.plt" w p lw 1, \
+"qval_1_85.plt" w l , "ptcl_1_85.plt" w p lw 1, \
+"qval_2_85.plt" w l , "ptcl_2_85.plt" w p lw 1, \
+"qval_3_85.plt" w l , "ptcl_3_85.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_85.plt" w l , "ptcl_0_85.plt" w p lw 1, \
+"qval_1_85.plt" w l , "ptcl_1_85.plt" w p lw 1, \
+"qval_2_85.plt" w l , "ptcl_2_85.plt" w p lw 1, \
+"qval_3_85.plt" w l , "ptcl_3_85.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_85.plt" w l , "ptcl_0_85.plt" w p lw 1, \
+"qval_1_85.plt" w l , "ptcl_1_85.plt" w p lw 1, \
+"qval_2_85.plt" w l , "ptcl_2_85.plt" w p lw 1, \
+"qval_3_85.plt" w l , "ptcl_3_85.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_85.plt" w l , "ptcl_0_85.plt" w p lw 1, \
+"qval_1_85.plt" w l , "ptcl_1_85.plt" w p lw 1, \
+"qval_2_85.plt" w l , "ptcl_2_85.plt" w p lw 1, \
+"qval_3_85.plt" w l , "ptcl_3_85.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_86.plt" w l , "ptcl_0_86.plt" w p lw 1, \
+"qval_1_86.plt" w l , "ptcl_1_86.plt" w p lw 1, \
+"qval_2_86.plt" w l , "ptcl_2_86.plt" w p lw 1, \
+"qval_3_86.plt" w l , "ptcl_3_86.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_86.plt" w l , "ptcl_0_86.plt" w p lw 1, \
+"qval_1_86.plt" w l , "ptcl_1_86.plt" w p lw 1, \
+"qval_2_86.plt" w l , "ptcl_2_86.plt" w p lw 1, \
+"qval_3_86.plt" w l , "ptcl_3_86.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_86.plt" w l , "ptcl_0_86.plt" w p lw 1, \
+"qval_1_86.plt" w l , "ptcl_1_86.plt" w p lw 1, \
+"qval_2_86.plt" w l , "ptcl_2_86.plt" w p lw 1, \
+"qval_3_86.plt" w l , "ptcl_3_86.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_86.plt" w l , "ptcl_0_86.plt" w p lw 1, \
+"qval_1_86.plt" w l , "ptcl_1_86.plt" w p lw 1, \
+"qval_2_86.plt" w l , "ptcl_2_86.plt" w p lw 1, \
+"qval_3_86.plt" w l , "ptcl_3_86.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_87.plt" w l , "ptcl_0_87.plt" w p lw 1, \
+"qval_1_87.plt" w l , "ptcl_1_87.plt" w p lw 1, \
+"qval_2_87.plt" w l , "ptcl_2_87.plt" w p lw 1, \
+"qval_3_87.plt" w l , "ptcl_3_87.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_87.plt" w l , "ptcl_0_87.plt" w p lw 1, \
+"qval_1_87.plt" w l , "ptcl_1_87.plt" w p lw 1, \
+"qval_2_87.plt" w l , "ptcl_2_87.plt" w p lw 1, \
+"qval_3_87.plt" w l , "ptcl_3_87.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_87.plt" w l , "ptcl_0_87.plt" w p lw 1, \
+"qval_1_87.plt" w l , "ptcl_1_87.plt" w p lw 1, \
+"qval_2_87.plt" w l , "ptcl_2_87.plt" w p lw 1, \
+"qval_3_87.plt" w l , "ptcl_3_87.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_87.plt" w l , "ptcl_0_87.plt" w p lw 1, \
+"qval_1_87.plt" w l , "ptcl_1_87.plt" w p lw 1, \
+"qval_2_87.plt" w l , "ptcl_2_87.plt" w p lw 1, \
+"qval_3_87.plt" w l , "ptcl_3_87.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_88.plt" w l , "ptcl_0_88.plt" w p lw 1, \
+"qval_1_88.plt" w l , "ptcl_1_88.plt" w p lw 1, \
+"qval_2_88.plt" w l , "ptcl_2_88.plt" w p lw 1, \
+"qval_3_88.plt" w l , "ptcl_3_88.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_88.plt" w l , "ptcl_0_88.plt" w p lw 1, \
+"qval_1_88.plt" w l , "ptcl_1_88.plt" w p lw 1, \
+"qval_2_88.plt" w l , "ptcl_2_88.plt" w p lw 1, \
+"qval_3_88.plt" w l , "ptcl_3_88.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_88.plt" w l , "ptcl_0_88.plt" w p lw 1, \
+"qval_1_88.plt" w l , "ptcl_1_88.plt" w p lw 1, \
+"qval_2_88.plt" w l , "ptcl_2_88.plt" w p lw 1, \
+"qval_3_88.plt" w l , "ptcl_3_88.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_88.plt" w l , "ptcl_0_88.plt" w p lw 1, \
+"qval_1_88.plt" w l , "ptcl_1_88.plt" w p lw 1, \
+"qval_2_88.plt" w l , "ptcl_2_88.plt" w p lw 1, \
+"qval_3_88.plt" w l , "ptcl_3_88.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_89.plt" w l , "ptcl_0_89.plt" w p lw 1, \
+"qval_1_89.plt" w l , "ptcl_1_89.plt" w p lw 1, \
+"qval_2_89.plt" w l , "ptcl_2_89.plt" w p lw 1, \
+"qval_3_89.plt" w l , "ptcl_3_89.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_89.plt" w l , "ptcl_0_89.plt" w p lw 1, \
+"qval_1_89.plt" w l , "ptcl_1_89.plt" w p lw 1, \
+"qval_2_89.plt" w l , "ptcl_2_89.plt" w p lw 1, \
+"qval_3_89.plt" w l , "ptcl_3_89.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_89.plt" w l , "ptcl_0_89.plt" w p lw 1, \
+"qval_1_89.plt" w l , "ptcl_1_89.plt" w p lw 1, \
+"qval_2_89.plt" w l , "ptcl_2_89.plt" w p lw 1, \
+"qval_3_89.plt" w l , "ptcl_3_89.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_89.plt" w l , "ptcl_0_89.plt" w p lw 1, \
+"qval_1_89.plt" w l , "ptcl_1_89.plt" w p lw 1, \
+"qval_2_89.plt" w l , "ptcl_2_89.plt" w p lw 1, \
+"qval_3_89.plt" w l , "ptcl_3_89.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_90.plt" w l , "ptcl_0_90.plt" w p lw 1, \
+"qval_1_90.plt" w l , "ptcl_1_90.plt" w p lw 1, \
+"qval_2_90.plt" w l , "ptcl_2_90.plt" w p lw 1, \
+"qval_3_90.plt" w l , "ptcl_3_90.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_90.plt" w l , "ptcl_0_90.plt" w p lw 1, \
+"qval_1_90.plt" w l , "ptcl_1_90.plt" w p lw 1, \
+"qval_2_90.plt" w l , "ptcl_2_90.plt" w p lw 1, \
+"qval_3_90.plt" w l , "ptcl_3_90.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_90.plt" w l , "ptcl_0_90.plt" w p lw 1, \
+"qval_1_90.plt" w l , "ptcl_1_90.plt" w p lw 1, \
+"qval_2_90.plt" w l , "ptcl_2_90.plt" w p lw 1, \
+"qval_3_90.plt" w l , "ptcl_3_90.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_90.plt" w l , "ptcl_0_90.plt" w p lw 1, \
+"qval_1_90.plt" w l , "ptcl_1_90.plt" w p lw 1, \
+"qval_2_90.plt" w l , "ptcl_2_90.plt" w p lw 1, \
+"qval_3_90.plt" w l , "ptcl_3_90.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_91.plt" w l , "ptcl_0_91.plt" w p lw 1, \
+"qval_1_91.plt" w l , "ptcl_1_91.plt" w p lw 1, \
+"qval_2_91.plt" w l , "ptcl_2_91.plt" w p lw 1, \
+"qval_3_91.plt" w l , "ptcl_3_91.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_91.plt" w l , "ptcl_0_91.plt" w p lw 1, \
+"qval_1_91.plt" w l , "ptcl_1_91.plt" w p lw 1, \
+"qval_2_91.plt" w l , "ptcl_2_91.plt" w p lw 1, \
+"qval_3_91.plt" w l , "ptcl_3_91.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_91.plt" w l , "ptcl_0_91.plt" w p lw 1, \
+"qval_1_91.plt" w l , "ptcl_1_91.plt" w p lw 1, \
+"qval_2_91.plt" w l , "ptcl_2_91.plt" w p lw 1, \
+"qval_3_91.plt" w l , "ptcl_3_91.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_91.plt" w l , "ptcl_0_91.plt" w p lw 1, \
+"qval_1_91.plt" w l , "ptcl_1_91.plt" w p lw 1, \
+"qval_2_91.plt" w l , "ptcl_2_91.plt" w p lw 1, \
+"qval_3_91.plt" w l , "ptcl_3_91.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_92.plt" w l , "ptcl_0_92.plt" w p lw 1, \
+"qval_1_92.plt" w l , "ptcl_1_92.plt" w p lw 1, \
+"qval_2_92.plt" w l , "ptcl_2_92.plt" w p lw 1, \
+"qval_3_92.plt" w l , "ptcl_3_92.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_92.plt" w l , "ptcl_0_92.plt" w p lw 1, \
+"qval_1_92.plt" w l , "ptcl_1_92.plt" w p lw 1, \
+"qval_2_92.plt" w l , "ptcl_2_92.plt" w p lw 1, \
+"qval_3_92.plt" w l , "ptcl_3_92.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_92.plt" w l , "ptcl_0_92.plt" w p lw 1, \
+"qval_1_92.plt" w l , "ptcl_1_92.plt" w p lw 1, \
+"qval_2_92.plt" w l , "ptcl_2_92.plt" w p lw 1, \
+"qval_3_92.plt" w l , "ptcl_3_92.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_92.plt" w l , "ptcl_0_92.plt" w p lw 1, \
+"qval_1_92.plt" w l , "ptcl_1_92.plt" w p lw 1, \
+"qval_2_92.plt" w l , "ptcl_2_92.plt" w p lw 1, \
+"qval_3_92.plt" w l , "ptcl_3_92.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_93.plt" w l , "ptcl_0_93.plt" w p lw 1, \
+"qval_1_93.plt" w l , "ptcl_1_93.plt" w p lw 1, \
+"qval_2_93.plt" w l , "ptcl_2_93.plt" w p lw 1, \
+"qval_3_93.plt" w l , "ptcl_3_93.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_93.plt" w l , "ptcl_0_93.plt" w p lw 1, \
+"qval_1_93.plt" w l , "ptcl_1_93.plt" w p lw 1, \
+"qval_2_93.plt" w l , "ptcl_2_93.plt" w p lw 1, \
+"qval_3_93.plt" w l , "ptcl_3_93.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_93.plt" w l , "ptcl_0_93.plt" w p lw 1, \
+"qval_1_93.plt" w l , "ptcl_1_93.plt" w p lw 1, \
+"qval_2_93.plt" w l , "ptcl_2_93.plt" w p lw 1, \
+"qval_3_93.plt" w l , "ptcl_3_93.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_93.plt" w l , "ptcl_0_93.plt" w p lw 1, \
+"qval_1_93.plt" w l , "ptcl_1_93.plt" w p lw 1, \
+"qval_2_93.plt" w l , "ptcl_2_93.plt" w p lw 1, \
+"qval_3_93.plt" w l , "ptcl_3_93.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_94.plt" w l , "ptcl_0_94.plt" w p lw 1, \
+"qval_1_94.plt" w l , "ptcl_1_94.plt" w p lw 1, \
+"qval_2_94.plt" w l , "ptcl_2_94.plt" w p lw 1, \
+"qval_3_94.plt" w l , "ptcl_3_94.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_94.plt" w l , "ptcl_0_94.plt" w p lw 1, \
+"qval_1_94.plt" w l , "ptcl_1_94.plt" w p lw 1, \
+"qval_2_94.plt" w l , "ptcl_2_94.plt" w p lw 1, \
+"qval_3_94.plt" w l , "ptcl_3_94.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_94.plt" w l , "ptcl_0_94.plt" w p lw 1, \
+"qval_1_94.plt" w l , "ptcl_1_94.plt" w p lw 1, \
+"qval_2_94.plt" w l , "ptcl_2_94.plt" w p lw 1, \
+"qval_3_94.plt" w l , "ptcl_3_94.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_94.plt" w l , "ptcl_0_94.plt" w p lw 1, \
+"qval_1_94.plt" w l , "ptcl_1_94.plt" w p lw 1, \
+"qval_2_94.plt" w l , "ptcl_2_94.plt" w p lw 1, \
+"qval_3_94.plt" w l , "ptcl_3_94.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_95.plt" w l , "ptcl_0_95.plt" w p lw 1, \
+"qval_1_95.plt" w l , "ptcl_1_95.plt" w p lw 1, \
+"qval_2_95.plt" w l , "ptcl_2_95.plt" w p lw 1, \
+"qval_3_95.plt" w l , "ptcl_3_95.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_95.plt" w l , "ptcl_0_95.plt" w p lw 1, \
+"qval_1_95.plt" w l , "ptcl_1_95.plt" w p lw 1, \
+"qval_2_95.plt" w l , "ptcl_2_95.plt" w p lw 1, \
+"qval_3_95.plt" w l , "ptcl_3_95.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_95.plt" w l , "ptcl_0_95.plt" w p lw 1, \
+"qval_1_95.plt" w l , "ptcl_1_95.plt" w p lw 1, \
+"qval_2_95.plt" w l , "ptcl_2_95.plt" w p lw 1, \
+"qval_3_95.plt" w l , "ptcl_3_95.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_95.plt" w l , "ptcl_0_95.plt" w p lw 1, \
+"qval_1_95.plt" w l , "ptcl_1_95.plt" w p lw 1, \
+"qval_2_95.plt" w l , "ptcl_2_95.plt" w p lw 1, \
+"qval_3_95.plt" w l , "ptcl_3_95.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_96.plt" w l , "ptcl_0_96.plt" w p lw 1, \
+"qval_1_96.plt" w l , "ptcl_1_96.plt" w p lw 1, \
+"qval_2_96.plt" w l , "ptcl_2_96.plt" w p lw 1, \
+"qval_3_96.plt" w l , "ptcl_3_96.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_96.plt" w l , "ptcl_0_96.plt" w p lw 1, \
+"qval_1_96.plt" w l , "ptcl_1_96.plt" w p lw 1, \
+"qval_2_96.plt" w l , "ptcl_2_96.plt" w p lw 1, \
+"qval_3_96.plt" w l , "ptcl_3_96.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_96.plt" w l , "ptcl_0_96.plt" w p lw 1, \
+"qval_1_96.plt" w l , "ptcl_1_96.plt" w p lw 1, \
+"qval_2_96.plt" w l , "ptcl_2_96.plt" w p lw 1, \
+"qval_3_96.plt" w l , "ptcl_3_96.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_96.plt" w l , "ptcl_0_96.plt" w p lw 1, \
+"qval_1_96.plt" w l , "ptcl_1_96.plt" w p lw 1, \
+"qval_2_96.plt" w l , "ptcl_2_96.plt" w p lw 1, \
+"qval_3_96.plt" w l , "ptcl_3_96.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_97.plt" w l , "ptcl_0_97.plt" w p lw 1, \
+"qval_1_97.plt" w l , "ptcl_1_97.plt" w p lw 1, \
+"qval_2_97.plt" w l , "ptcl_2_97.plt" w p lw 1, \
+"qval_3_97.plt" w l , "ptcl_3_97.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_97.plt" w l , "ptcl_0_97.plt" w p lw 1, \
+"qval_1_97.plt" w l , "ptcl_1_97.plt" w p lw 1, \
+"qval_2_97.plt" w l , "ptcl_2_97.plt" w p lw 1, \
+"qval_3_97.plt" w l , "ptcl_3_97.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_97.plt" w l , "ptcl_0_97.plt" w p lw 1, \
+"qval_1_97.plt" w l , "ptcl_1_97.plt" w p lw 1, \
+"qval_2_97.plt" w l , "ptcl_2_97.plt" w p lw 1, \
+"qval_3_97.plt" w l , "ptcl_3_97.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_97.plt" w l , "ptcl_0_97.plt" w p lw 1, \
+"qval_1_97.plt" w l , "ptcl_1_97.plt" w p lw 1, \
+"qval_2_97.plt" w l , "ptcl_2_97.plt" w p lw 1, \
+"qval_3_97.plt" w l , "ptcl_3_97.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_98.plt" w l , "ptcl_0_98.plt" w p lw 1, \
+"qval_1_98.plt" w l , "ptcl_1_98.plt" w p lw 1, \
+"qval_2_98.plt" w l , "ptcl_2_98.plt" w p lw 1, \
+"qval_3_98.plt" w l , "ptcl_3_98.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_98.plt" w l , "ptcl_0_98.plt" w p lw 1, \
+"qval_1_98.plt" w l , "ptcl_1_98.plt" w p lw 1, \
+"qval_2_98.plt" w l , "ptcl_2_98.plt" w p lw 1, \
+"qval_3_98.plt" w l , "ptcl_3_98.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_98.plt" w l , "ptcl_0_98.plt" w p lw 1, \
+"qval_1_98.plt" w l , "ptcl_1_98.plt" w p lw 1, \
+"qval_2_98.plt" w l , "ptcl_2_98.plt" w p lw 1, \
+"qval_3_98.plt" w l , "ptcl_3_98.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_98.plt" w l , "ptcl_0_98.plt" w p lw 1, \
+"qval_1_98.plt" w l , "ptcl_1_98.plt" w p lw 1, \
+"qval_2_98.plt" w l , "ptcl_2_98.plt" w p lw 1, \
+"qval_3_98.plt" w l , "ptcl_3_98.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_99.plt" w l , "ptcl_0_99.plt" w p lw 1, \
+"qval_1_99.plt" w l , "ptcl_1_99.plt" w p lw 1, \
+"qval_2_99.plt" w l , "ptcl_2_99.plt" w p lw 1, \
+"qval_3_99.plt" w l , "ptcl_3_99.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_99.plt" w l , "ptcl_0_99.plt" w p lw 1, \
+"qval_1_99.plt" w l , "ptcl_1_99.plt" w p lw 1, \
+"qval_2_99.plt" w l , "ptcl_2_99.plt" w p lw 1, \
+"qval_3_99.plt" w l , "ptcl_3_99.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_99.plt" w l , "ptcl_0_99.plt" w p lw 1, \
+"qval_1_99.plt" w l , "ptcl_1_99.plt" w p lw 1, \
+"qval_2_99.plt" w l , "ptcl_2_99.plt" w p lw 1, \
+"qval_3_99.plt" w l , "ptcl_3_99.plt" w p lw 1, \
+
+pause .01
+splot \
+"qval_0_99.plt" w l , "ptcl_0_99.plt" w p lw 1, \
+"qval_1_99.plt" w l , "ptcl_1_99.plt" w p lw 1, \
+"qval_2_99.plt" w l , "ptcl_2_99.plt" w p lw 1, \
+"qval_3_99.plt" w l , "ptcl_3_99.plt" w p lw 1, \
+
+pause .01
